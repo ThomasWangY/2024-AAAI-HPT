@@ -88,13 +88,14 @@ Please refer to [RUN.md](docs/RUN.md) for detailed instructions on training and 
 If you use our work, please consider citing:
 
 ```bibtex
-@misc{wang2023learning,
-      title={Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models}, 
-      author={Yubin Wang and Xinyang Jiang and De Cheng and Dongsheng Li and Cairong Zhao},
-      year={2023},
-      eprint={2312.06323},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{wang2024learning,
+  title={Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models},
+  author={Wang, Yubin and Jiang, Xinyang and Cheng, De and Li, Dongsheng and Zhao, Cairong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={6},
+  pages={5749--5757},
+  year={2024}
 }
 ```
 
