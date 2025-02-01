@@ -24,6 +24,8 @@ import datasets.imagenet_sketch
 import datasets.imagenetv2
 
 import trainers.zsclip
+import trainers.hpt
+import trainers.hpt_plus
 
 
 def print_args(args, cfg):
@@ -89,8 +91,18 @@ def extend_cfg(cfg):
     cfg.TRAINER.HPT.N_TPRO = 2  # number of context vectors
     cfg.TRAINER.HPT.N_VPRO = 2  # number of prompt vectors
     cfg.TRAINER.HPT.N_SET = 5
-    cfg.DATASET.GPT_DIR = './'
+    cfg.TRAINER.HPT.ALPHA = 0.0
     cfg.TRAINER.HPT.PREC = "fp16"  # fp16, fp32, amp
+    
+    cfg.TRAINER.HPT_PLUS = CN()
+    cfg.TRAINER.HPT_PLUS.N_TPRO = 2  # number of context vectors
+    cfg.TRAINER.HPT_PLUS.N_VPRO = 2  # number of prompt vectors
+    cfg.TRAINER.HPT_PLUS.N_SET = 5
+    cfg.TRAINER.HPT_PLUS.ALPHA = 0.0
+    cfg.TRAINER.HPT_PLUS.PREC = "fp16"  # fp16, fp32, amp
+    
+    cfg.DATASET.GPT_DIR = './'
+    cfg.DATASET.DIR = './data'
     cfg.DATASET.SUBSAMPLE_CLASSES = "all"  # all, base or new
     cfg.DATASET.ID = 0
 
