@@ -184,7 +184,7 @@ class TextEncoder(nn.Module):
         self.dtype = clip_model.dtype
         self.n_tpro = cfg.TRAINER.HPT_PLUS.N_TPRO # prompt length
         self.n_set = cfg.TRAINER.HPT_PLUS.N_SET # number of descriptions for each category'
-        self.alpha = 0.2
+        self.alpha = cfg.TRAINER.HPT_PLUS.ALPHA
 
     def forward(self, x, p_ins, p_uni, tokenized_prompts, attn, flag):
         # p_ins: instance-specific prompt, a.k.a high-level prompt from descriptions

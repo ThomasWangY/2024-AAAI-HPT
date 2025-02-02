@@ -1,4 +1,4 @@
-# bash ./scripts/b2n_test.sh caltech101
+# bash ./scripts/hpt/b2n_test.sh caltech101
 TRAINER=HPT
 CFG=b2n
 SHOTS=16

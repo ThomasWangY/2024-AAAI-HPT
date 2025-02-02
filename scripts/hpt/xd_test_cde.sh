@@ -1,4 +1,4 @@
-# bash ./scripts/xd_test_cde.sh caltech101
+# bash ./scripts/hpt/xd_test_cde.sh caltech101
 TRAINER=HPT
 CFG=xd
 SHOTS=16

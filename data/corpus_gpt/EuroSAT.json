@@ -1,0 +1,1957 @@
+{
+    "Annual Crop Land": {
+        "overall_description": [
+            "Annual Crop Land appears as regularly patterned and often symmetrical patches of vegetation amidst other land cover types in a satellite image.",
+            "Distinct features of Annual Crop Land in a satellite photo are uniform and organized patterns, regular shape, and distinct color variations.",
+            "Annual crop land can be identified by its texture, uniform color, and regularly spaced rows or patterns in the satellite photo.",
+            "Annual Crop Land appears as regularly spaced and organized greenish areas, while other types of land appear, unpredictable, and less uniform.",
+            "The presence of regularly spaced and geometrically aligned rectangular or square patches is a unique visual cue for Annual Crop Land."
+        ],
+        "structure": [
+            [
+                {
+                    "A": "Annual Crop Land",
+                    "B": "patterned patches",
+                    "R": "appears as"
+                },
+                {
+                    "A": "patterned patches",
+                    "B": "other land cover types",
+                    "R": "amidst"
+                },
+                {
+                    "A": "satellite image",
+                    "B": "Annual Crop Land",
+                    "R": "shows"
+                },
+                {
+                    "A": "satellite image",
+                    "B": "patterned patches",
+                    "R": "shows"
+                },
+                {
+                    "A": "satellite image",
+                    "B": "vegetation",
+                    "R": "shows"
+                },
+                {
+                    "A": "satellite image",
+                    "B": "other land cover types",
+                    "R": "shows"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "B": "regularly",
+                    "R": "is"
+                },
+                {
+                    "A": "patterned patches",
+                    "B": "regularly",
+                    "R": "are"
+                },
+                {
+                    "A": "patterned patches",
+                    "B": "symmetrical",
+                    "R": "are"
+                }
+            ],
+            [
+                {
+                    "A": "Annual Crop Land",
+                    "B": "satellite photo",
+                    "R": "in"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "B": "distinct features",
+                    "R": "has"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "B": "uniform and organized patterns",
+                    "R": "has"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "B": "regular shape",
+                    "R": "has"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "B": "distinct color variations",
+                    "R": "has"
+                }
+            ],
+            [
+                {
+                    "A": "Annual crop land",
+                    "B": "texture",
+                    "R": "can be identified by"
+                },
+                {
+                    "A": "Annual crop land",
+                    "B": "uniform color",
+                    "R": "can be identified by"
+                },
+                {
+                    "A": "Annual crop land",
+                    "B": "regularly spaced rows",
+                    "R": "can be identified by"
+                },
+                {
+                    "A": "Annual crop land",
+                    "B": "patterns",
+                    "R": "can be identified by"
+                },
+                {
+                    "A": "Annual crop land",
+                    "B": "satellite photo",
+                    "R": "in"
+                },
+                {
+                    "A": "Annual crop land",
+                    "B": "texture",
+                    "R": "can be identified by"
+                },
+                {
+                    "A": "Annual crop land",
+                    "B": "uniform color",
+                    "R": "can be identified by"
+                },
+                {
+                    "A": "Annual crop land",
+                    "B": "regularly spaced rows",
+                    "R": "can be identified by"
+                },
+                {
+                    "A": "Annual crop land",
+                    "B": "patterns",
+                    "R": "can be identified by"
+                }
+            ],
+            [
+                {
+                    "A": "Annual Crop Land",
+                    "B": "land",
+                    "R": "is a type of"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "B": "regularly spaced",
+                    "R": "has"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "B": "organized",
+                    "R": "has"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "B": "greenish",
+                    "R": "has"
+                },
+                {
+                    "A": "land",
+                    "B": "unpredictable",
+                    "R": "has"
+                },
+                {
+                    "A": "land",
+                    "B": "less uniform",
+                    "R": "has"
+                }
+            ],
+            [
+                {
+                    "A": "Regularly Spaced Patch",
+                    "B": "Geometrically Aligned Patch",
+                    "R": "is a"
+                },
+                {
+                    "A": "Geometrically Aligned Patch",
+                    "B": "Rectangle",
+                    "R": "contains"
+                },
+                {
+                    "A": "Geometrically Aligned Patch",
+                    "B": "Square",
+                    "R": "contains"
+                },
+                {
+                    "A": "Rectangle",
+                    "B": "Regularly Spaced Patch",
+                    "R": "has"
+                },
+                {
+                    "A": "Square",
+                    "B": "Regularly Spaced Patch",
+                    "R": "has"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "B": "Regularly Spaced Patch",
+                    "R": "has"
+                },
+                {
+                    "A": "Presence",
+                    "B": "Regularly Spaced Patch",
+                    "R": "indicates"
+                },
+                {
+                    "A": "Visual Cue",
+                    "B": "Regularly Spaced Patch",
+                    "R": "is provided by"
+                },
+                {
+                    "A": "Unique",
+                    "B": "Visual Cue",
+                    "R": "describes"
+                }
+            ]
+        ]
+    },
+    "Forest": {
+        "overall_description": [
+            "Forests appear as dense areas of green foliage in a centered satellite photo, surrounded by lighter-colored grasslands and open spaces.",
+            "Distinct features of forests for recognition include green vegetation, diverse vegetation height, canopy cover, and irregular pattern of tree crowns.",
+            "Characteristics of forests, such as density, color, and texture, can be identified in a satellite photo to distinguish them from other land types.",
+            "Forests typically appear as darker shades of green compared to other land types in a satellite photo due to their denser vegetation cover.",
+            "The unique visual cue of a forest in a centered satellite photo is the presence of a dense canopy of trees."
+        ],
+        "structure": [
+            [
+                {
+                    "A": "Forests",
+                    "B": "grasslands",
+                    "R": "surrounded by"
+                },
+                {
+                    "A": "Forests",
+                    "B": "open spaces",
+                    "R": "surrounded by"
+                },
+                {
+                    "A": "Forests",
+                    "B": "dense",
+                    "R": "appear as"
+                },
+                {
+                    "A": "green foliage",
+                    "B": "green",
+                    "R": "appear as"
+                },
+                {
+                    "A": "grasslands",
+                    "B": "lighter-colored",
+                    "R": "surrounded by"
+                },
+                {
+                    "A": "open spaces",
+                    "B": "lighter-colored",
+                    "R": "surrounded by"
+                }
+            ],
+            [
+                {
+                    "A": "Forests",
+                    "B": "Green vegetation",
+                    "R": "have"
+                },
+                {
+                    "A": "Forests",
+                    "B": "Diverse vegetation height",
+                    "R": "have"
+                },
+                {
+                    "A": "Forests",
+                    "B": "Canopy cover",
+                    "R": "have"
+                },
+                {
+                    "A": "Forests",
+                    "B": "Irregular pattern of tree crowns",
+                    "R": "have"
+                }
+            ],
+            [
+                {
+                    "A": "Forests",
+                    "B": "Satellite photo",
+                    "R": "can be identified in"
+                },
+                {
+                    "A": "Satellite photo",
+                    "B": "Land types",
+                    "R": "to distinguish from"
+                },
+                {
+                    "A": "Forests",
+                    "B": "Density",
+                    "R": "have characteristics of"
+                },
+                {
+                    "A": "Forests",
+                    "B": "Color",
+                    "R": "have characteristics of"
+                },
+                {
+                    "A": "Forests",
+                    "B": "Texture",
+                    "R": "have characteristics of"
+                }
+            ],
+            [
+                {
+                    "A": "Forests",
+                    "B": "land types",
+                    "R": "compared to"
+                },
+                {
+                    "A": "Forests",
+                    "B": "satellite photo",
+                    "R": "in"
+                },
+                {
+                    "A": "Forests",
+                    "B": "darker shades of green",
+                    "R": "appear as"
+                },
+                {
+                    "A": "Forests",
+                    "B": "denser",
+                    "R": "due to"
+                },
+                {
+                    "A": "land types",
+                    "B": "darker shades of green",
+                    "R": "compared to"
+                },
+                {
+                    "A": "satellite photo",
+                    "B": "denser",
+                    "R": "due to"
+                }
+            ],
+            [
+                {
+                    "A": "visual cue",
+                    "B": "forest",
+                    "R": "of"
+                },
+                {
+                    "A": "forest",
+                    "B": "centered satellite photo",
+                    "R": "in"
+                },
+                {
+                    "A": "forest",
+                    "B": "dense canopy",
+                    "R": "presence of"
+                },
+                {
+                    "A": "dense canopy",
+                    "B": "trees",
+                    "R": "of"
+                },
+                {
+                    "A": "visual cue",
+                    "B": "unique",
+                    "R": "is"
+                }
+            ]
+        ]
+    },
+    "Herbaceous Vegetation Land": {
+        "overall_description": [
+            "Herbaceous Vegetation Land appears as a green and lush area with no visible trees or woody plants in a satellite photo.",
+            "Herbaceous Vegetation Land can be recognized by its green color, low height, dense vegetation, and lack of visible woody stems or trunks.",
+            "Herbaceous Vegetation Land appears as a green area with a mix of small and large patches of vegetation in a centered satellite photo.",
+            "Herbaceous Vegetation Land appears greener and has more distinct, fine-grained textures compared to other types of land in satellite photos.",
+            "The high reflectance in the near-infrared (NIR) portion of the electromagnetic spectrum is a unique visual cue for herbaceous vegetation land."
+        ],
+        "structure": [
+            [
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "green and lush area",
+                    "R": "appears as"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "no visible trees",
+                    "R": "appears as"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "no woody plants",
+                    "R": "appears as"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "satellite photo",
+                    "R": "in"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "herbaceous",
+                    "R": "has attribute"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "green",
+                    "R": "has attribute"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "lush",
+                    "R": "has attribute"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "no visible trees",
+                    "R": "has attribute"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "no woody plants",
+                    "R": "has attribute"
+                }
+            ],
+            [
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "its green color",
+                    "R": "recognized by"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "low height",
+                    "R": "recognized by"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "dense vegetation",
+                    "R": "recognized by"
+                },
+                {
+                    "A": "Visible Woody Stems",
+                    "B": "Herbaceous Vegetation Land",
+                    "R": "lack of"
+                },
+                {
+                    "A": "Trunks",
+                    "B": "Herbaceous Vegetation Land",
+                    "R": "lack of"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "green",
+                    "R": "recognized by"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "low height",
+                    "R": "recognized by"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "dense vegetation",
+                    "R": "recognized by"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "visible woody stems or trunks",
+                    "R": "lack of"
+                }
+            ],
+            [
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "green area",
+                    "R": "appears as"
+                },
+                {
+                    "A": "green area",
+                    "B": "small patches of vegetation",
+                    "R": "contains"
+                },
+                {
+                    "A": "green area",
+                    "B": "large patches of vegetation",
+                    "R": "contains"
+                },
+                {
+                    "A": "centered satellite photo",
+                    "B": "Herbaceous Vegetation Land",
+                    "R": "depicts"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "green",
+                    "R": "appears as"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "small patches of vegetation",
+                    "R": "contains"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "large patches of vegetation",
+                    "R": "contains"
+                }
+            ],
+            [
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "other types of land",
+                    "R": "compared to"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "greener",
+                    "R": "appears"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "distinct",
+                    "R": "has"
+                },
+                {
+                    "A": "Herbaceous Vegetation Land",
+                    "B": "fine-grained textures",
+                    "R": "has"
+                }
+            ],
+            [
+                {
+                    "A": "Herbaceous vegetation land",
+                    "B": "High reflectance",
+                    "R": "unique visual cue for"
+                },
+                {
+                    "A": "High reflectance",
+                    "B": "Near-infrared (NIR) portion",
+                    "R": "in"
+                },
+                {
+                    "A": "Near-infrared (NIR) portion",
+                    "B": "Electromagnetic spectrum",
+                    "R": "of"
+                }
+            ]
+        ]
+    },
+    "Highway or Road": {
+        "overall_description": [
+            "A highway or road appears as a linear feature of contrasting color, usually gray or black, amidst surrounding land cover.",
+            "A highway or road appears as a linear strip with regular and parallel edges, often with adjacent lane markings and vehicles.",
+            "Highway or road in satellite photos can be identified based on its linear structure, distinct pattern of width and presence of adjoining infrastructure.",
+            "Highways or roads are straight and narrower with parallel lines, while other types of land are less organized, larger, and curved.",
+            "The long straight patterns of black asphalt or concrete roads and highways are a unique visual cue among all types of land."
+        ],
+        "structure": [
+            [
+                {
+                    "A": "Highway",
+                    "B": "Linear feature",
+                    "R": "Appears as"
+                },
+                {
+                    "A": "Road",
+                    "B": "Linear feature",
+                    "R": "Appears as"
+                },
+                {
+                    "A": "Linear feature",
+                    "B": "Surrounding land cover",
+                    "R": "Amidst"
+                },
+                {
+                    "A": "Linear feature",
+                    "B": "Color",
+                    "R": "Contrasts with"
+                },
+                {
+                    "A": "Color",
+                    "B": "Gray",
+                    "R": "Is usually"
+                },
+                {
+                    "A": "Color",
+                    "B": "Black",
+                    "R": "Is usually"
+                }
+            ],
+            [
+                {
+                    "A": "Highway",
+                    "B": "Linear strip",
+                    "R": "Appears as"
+                },
+                {
+                    "A": "Road",
+                    "B": "Linear strip",
+                    "R": "Appears as"
+                },
+                {
+                    "A": "Linear strip",
+                    "B": "Edges",
+                    "R": "Has"
+                },
+                {
+                    "A": "Linear strip",
+                    "B": "Lane markings",
+                    "R": "Has"
+                },
+                {
+                    "A": "Linear strip",
+                    "B": "Vehicles",
+                    "R": "Has"
+                },
+                {
+                    "A": "Linear strip",
+                    "B": "Regular",
+                    "R": "Has"
+                },
+                {
+                    "A": "Linear strip",
+                    "B": "Parallel",
+                    "R": "Has"
+                },
+                {
+                    "A": "Linear strip",
+                    "B": "Adjacent",
+                    "R": "Has"
+                }
+            ],
+            [
+                {
+                    "A": "Highway",
+                    "B": "Road",
+                    "R": "or"
+                },
+                {
+                    "A": "Highway",
+                    "B": "Satellite photos",
+                    "R": "in"
+                },
+                {
+                    "A": "Road",
+                    "B": "Satellite photos",
+                    "R": "in"
+                },
+                {
+                    "A": "Highway",
+                    "B": "Linear structure",
+                    "R": "based on"
+                },
+                {
+                    "A": "Highway",
+                    "B": "Distinct pattern",
+                    "R": "based on"
+                },
+                {
+                    "A": "Highway",
+                    "B": "Width",
+                    "R": "based on"
+                },
+                {
+                    "A": "Highway",
+                    "B": "Adjoining infrastructure",
+                    "R": "based on"
+                },
+                {
+                    "A": "Road",
+                    "B": "Linear structure",
+                    "R": "based on"
+                },
+                {
+                    "A": "Road",
+                    "B": "Distinct pattern",
+                    "R": "based on"
+                },
+                {
+                    "A": "Road",
+                    "B": "Width",
+                    "R": "based on"
+                },
+                {
+                    "A": "Road",
+                    "B": "Adjoining infrastructure",
+                    "R": "based on"
+                },
+                {
+                    "A": "Highway",
+                    "B": "Identified",
+                    "R": "can be"
+                },
+                {
+                    "A": "Road",
+                    "B": "Identified",
+                    "R": "can be"
+                }
+            ],
+            [
+                {
+                    "A": "Highways",
+                    "B": "straight",
+                    "R": "are"
+                },
+                {
+                    "A": "Roads",
+                    "B": "straight",
+                    "R": "are"
+                },
+                {
+                    "A": "Highways",
+                    "B": "narrower",
+                    "R": "are"
+                },
+                {
+                    "A": "Roads",
+                    "B": "narrower",
+                    "R": "are"
+                },
+                {
+                    "A": "Highways",
+                    "B": "with parallel lines",
+                    "R": "are"
+                },
+                {
+                    "A": "Other types of land",
+                    "B": "less organized",
+                    "R": "are"
+                },
+                {
+                    "A": "Other types of land",
+                    "B": "larger",
+                    "R": "are"
+                },
+                {
+                    "A": "Other types of land",
+                    "B": "curved",
+                    "R": "are"
+                }
+            ],
+            [
+                {
+                    "A": "asphalt",
+                    "B": "roads",
+                    "R": "related to"
+                },
+                {
+                    "A": "concrete",
+                    "B": "roads",
+                    "R": "related to"
+                },
+                {
+                    "A": "roads",
+                    "B": "land",
+                    "R": "part of"
+                },
+                {
+                    "A": "highways",
+                    "B": "land",
+                    "R": "part of"
+                },
+                {
+                    "A": "roads",
+                    "B": "long",
+                    "R": "described by"
+                },
+                {
+                    "A": "roads",
+                    "B": "straight",
+                    "R": "described by"
+                },
+                {
+                    "A": "asphalt",
+                    "B": "black",
+                    "R": "described by"
+                },
+                {
+                    "A": "concrete",
+                    "B": "unique",
+                    "R": "described by"
+                },
+                {
+                    "A": "roads",
+                    "B": "visual",
+                    "R": "described by"
+                }
+            ]
+        ]
+    },
+    "Industrial Buildings": {
+        "overall_description": [
+            "Industrial buildings appear as large, rectangular or square-shaped structures with flat roofs, often surrounded by parking lots and loading docks.",
+            "Large size, flat roof, rectangular shape, minimal windows, parking lots, and proximity to other industrial buildings are distinct features of industrial buildings.",
+            "Industrial buildings can be identified by their rectangular or square shape with a large roof, and often have loading docks and parking lots.",
+            "Industrial buildings are typically larger, box-like structures with flat roofs and are often surrounded by parking lots and loading docks, while other types of land have a more diverse and natural appearance.",
+            "A visual cue unique to industrial buildings is the presence of large smokestacks or chimneys often emitting visible plumes of smoke."
+        ],
+        "structure": [
+            [
+                {
+                    "A": "Industrial buildings",
+                    "B": "structures",
+                    "R": "appear as"
+                },
+                {
+                    "A": "structures",
+                    "B": "parking lots",
+                    "R": "surrounded by"
+                },
+                {
+                    "A": "structures",
+                    "B": "loading docks",
+                    "R": "surrounded by"
+                }
+            ],
+            [
+                {
+                    "A": "Industrial Buildings",
+                    "B": "Large size",
+                    "R": "has"
+                },
+                {
+                    "A": "Industrial Buildings",
+                    "B": "Flat roof",
+                    "R": "has"
+                },
+                {
+                    "A": "Industrial Buildings",
+                    "B": "Rectangular shape",
+                    "R": "has"
+                },
+                {
+                    "A": "Industrial Buildings",
+                    "B": "Minimal windows",
+                    "R": "has"
+                },
+                {
+                    "A": "Industrial Buildings",
+                    "B": "Parking lots",
+                    "R": "has"
+                },
+                {
+                    "A": "Industrial Buildings",
+                    "B": "Proximity to other industrial buildings",
+                    "R": "has"
+                },
+                {
+                    "A": "Industrial Buildings",
+                    "B": "Distinct features",
+                    "R": "has"
+                }
+            ],
+            [
+                {
+                    "A": "Industrial buildings",
+                    "B": "loading docks",
+                    "R": "have"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "B": "parking lots",
+                    "R": "have"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "B": "rectangular shape",
+                    "R": "identified by"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "B": "square shape",
+                    "R": "identified by"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "B": "large roof",
+                    "R": "have"
+                }
+            ],
+            [
+                {
+                    "A": "Industrial buildings",
+                    "B": "parking lots",
+                    "R": "typically larger than"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "B": "loading docks",
+                    "R": "typically surrounded by"
+                },
+                {
+                    "A": "other types of land",
+                    "B": "diverse",
+                    "R": "have a more"
+                },
+                {
+                    "A": "other types of land",
+                    "B": "natural appearance",
+                    "R": "have a more"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "B": "larger",
+                    "R": "are"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "B": "box-like structures",
+                    "R": "are"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "B": "flat roofs",
+                    "R": "have"
+                }
+            ],
+            [
+                {
+                    "A": "visual cue",
+                    "B": "industrial buildings",
+                    "R": "unique to"
+                },
+                {
+                    "A": "industrial buildings",
+                    "B": "smokestacks",
+                    "R": "presence of"
+                },
+                {
+                    "A": "industrial buildings",
+                    "B": "chimneys",
+                    "R": "presence of"
+                },
+                {
+                    "A": "smokestacks",
+                    "B": "plumes of smoke",
+                    "R": "emitting"
+                },
+                {
+                    "A": "chimneys",
+                    "B": "plumes of smoke",
+                    "R": "emitting"
+                },
+                {
+                    "A": "smokestacks",
+                    "B": "large",
+                    "R": "large"
+                },
+                {
+                    "A": "visual cue",
+                    "B": "unique",
+                    "R": "unique"
+                },
+                {
+                    "A": "smokestacks",
+                    "B": "visible",
+                    "R": "visible"
+                },
+                {
+                    "A": "chimneys",
+                    "B": "visible",
+                    "R": "visible"
+                },
+                {
+                    "A": "plumes of smoke",
+                    "B": "visible",
+                    "R": "visible"
+                }
+            ]
+        ]
+    },
+    "Pasture Land": {
+        "overall_description": [
+            "Pasture land in a centered satellite photo appears as a green, open area with scattered trees or bushes, often with some livestock present.",
+            "Clumped pattern of green vegetation with varying shades, often bordered by trees, and less distinct pattern and texture compared to crop fields.",
+            "Pasture land can be identified in a satellite photo by its green color and regular patterns of vegetation that are evenly spaced.",
+            "Pasture land appears as open grasslands with occasional patches of trees, while other types of land may have different colors, textures or shapes.",
+            "The presence of green vegetation with scattered trees and bushes in a centered satellite photo indicates the area as a Pasture Land."
+        ],
+        "structure": [
+            [
+                {
+                    "A": "Pasture land",
+                    "B": "satellite photo",
+                    "R": "in"
+                },
+                {
+                    "A": "Pasture land",
+                    "B": "area",
+                    "R": "has"
+                },
+                {
+                    "A": "area",
+                    "B": "trees",
+                    "R": "has"
+                },
+                {
+                    "A": "area",
+                    "B": "bushes",
+                    "R": "has"
+                },
+                {
+                    "A": "area",
+                    "B": "livestock",
+                    "R": "has"
+                },
+                {
+                    "A": "Pasture land",
+                    "B": "green",
+                    "R": "appears as"
+                },
+                {
+                    "A": "Pasture land",
+                    "B": "open",
+                    "R": "appears as"
+                },
+                {
+                    "A": "area",
+                    "B": "scattered",
+                    "R": "has"
+                },
+                {
+                    "A": "livestock",
+                    "B": "present",
+                    "R": "often with"
+                }
+            ],
+            [
+                {
+                    "A": "Green vegetation",
+                    "B": "Trees",
+                    "R": "bordered by"
+                },
+                {
+                    "A": "Green vegetation",
+                    "B": "Clumped pattern",
+                    "R": "has"
+                },
+                {
+                    "A": "Green vegetation",
+                    "B": "Varying shades",
+                    "R": "has"
+                },
+                {
+                    "A": "Green vegetation",
+                    "B": "Less distinct pattern",
+                    "R": "has"
+                },
+                {
+                    "A": "Green vegetation",
+                    "B": "Texture",
+                    "R": "has"
+                }
+            ],
+            [
+                {
+                    "A": "Pasture land",
+                    "B": "satellite photo",
+                    "R": "identified in"
+                },
+                {
+                    "A": "satellite photo",
+                    "B": "vegetation",
+                    "R": "contains"
+                },
+                {
+                    "A": "Pasture land",
+                    "B": "green color",
+                    "R": "has"
+                },
+                {
+                    "A": "vegetation",
+                    "B": "regular patterns",
+                    "R": "has"
+                },
+                {
+                    "A": "vegetation",
+                    "B": "evenly spaced",
+                    "R": "has"
+                }
+            ],
+            [
+                {
+                    "A": "Pasture land",
+                    "B": "open grasslands",
+                    "R": "appears as"
+                },
+                {
+                    "A": "Pasture land",
+                    "B": "trees",
+                    "R": "has"
+                },
+                {
+                    "A": "types of land",
+                    "B": "colors",
+                    "R": "may have"
+                },
+                {
+                    "A": "types of land",
+                    "B": "textures",
+                    "R": "may have"
+                },
+                {
+                    "A": "types of land",
+                    "B": "shapes",
+                    "R": "may have"
+                },
+                {
+                    "A": "Pasture land",
+                    "B": "open",
+                    "R": "appears"
+                },
+                {
+                    "A": "Pasture land",
+                    "B": "trees",
+                    "R": "occasional"
+                },
+                {
+                    "A": "types of land",
+                    "B": "colors",
+                    "R": "different"
+                },
+                {
+                    "A": "types of land",
+                    "B": "textures",
+                    "R": "different"
+                },
+                {
+                    "A": "types of land",
+                    "B": "shapes",
+                    "R": "different"
+                }
+            ],
+            [
+                {
+                    "A": "Green vegetation",
+                    "B": "Satellite photo",
+                    "R": "Located in"
+                },
+                {
+                    "A": "Trees",
+                    "B": "Satellite photo",
+                    "R": "Located in"
+                },
+                {
+                    "A": "Bushes",
+                    "B": "Satellite photo",
+                    "R": "Located in"
+                },
+                {
+                    "A": "Satellite photo",
+                    "B": "Area",
+                    "R": "Indicates"
+                },
+                {
+                    "A": "Area",
+                    "B": "Pasture Land",
+                    "R": "Classified as"
+                },
+                {
+                    "A": "Green vegetation",
+                    "B": "Scattered",
+                    "R": "Presence"
+                },
+                {
+                    "A": "Trees",
+                    "B": "Scattered",
+                    "R": "Presence"
+                },
+                {
+                    "A": "Bushes",
+                    "B": "Scattered",
+                    "R": "Presence"
+                },
+                {
+                    "A": "Satellite photo",
+                    "B": "Centered",
+                    "R": "Position"
+                }
+            ]
+        ]
+    },
+    "Permanent Crop Land": {
+        "overall_description": [
+            "Permanent crop land appears as small, evenly spaced circles or rectangles that are green in color, distinct from surrounding land cover.",
+            "Permanent Crop Land typically has repetitive patterns, regular shapes, and smaller size compared to other land types with visible vegetation.",
+            "Permanent crop land can be identified by the presence of evenly spaced, geometrically shaped plots with distinct patterns and colors.",
+            "Permanent Crop Land appears as a regular pattern of vegetation rows while other land types appear as irregular and varied patterns.",
+            "The regular geometric shapes of the crop rows and the consistent green texture of vegetation are unique visual cues of Permanent Crop Land."
+        ],
+        "structure": [
+            [
+                {
+                    "A": "Permanent crop land",
+                    "B": "land cover",
+                    "R": "is located in"
+                },
+                {
+                    "A": "Permanent crop land",
+                    "B": "green in color",
+                    "R": "has the attribute"
+                },
+                {
+                    "A": "Permanent crop land",
+                    "B": "surrounding land cover",
+                    "R": "is distinct from"
+                }
+            ],
+            [
+                {
+                    "A": "Permanent Crop Land",
+                    "B": "land types",
+                    "R": "is a type of"
+                },
+                {
+                    "A": "land types",
+                    "B": "visible vegetation",
+                    "R": "have"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "B": "repetitive patterns",
+                    "R": "has"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "B": "regular shapes",
+                    "R": "has"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "B": "smaller size",
+                    "R": "has"
+                }
+            ],
+            [
+                {
+                    "A": "Permanent crop land",
+                    "B": "evenly spaced",
+                    "R": "can be identified by"
+                },
+                {
+                    "A": "Permanent crop land",
+                    "B": "geometrically shaped",
+                    "R": "can be identified by"
+                },
+                {
+                    "A": "Permanent crop land",
+                    "B": "distinct patterns",
+                    "R": "can be identified by"
+                },
+                {
+                    "A": "Permanent crop land",
+                    "B": "colors",
+                    "R": "can be identified by"
+                }
+            ],
+            [
+                {
+                    "A": "Permanent Crop Land",
+                    "B": "vegetation rows",
+                    "R": "appears as"
+                },
+                {
+                    "A": "other land types",
+                    "B": "patterns",
+                    "R": "appear as"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "B": "regular",
+                    "R": "appears as"
+                },
+                {
+                    "A": "other land types",
+                    "B": "irregular",
+                    "R": "appear as"
+                },
+                {
+                    "A": "other land types",
+                    "B": "varied",
+                    "R": "appear as"
+                }
+            ],
+            [
+                {
+                    "A": "Crop Rows",
+                    "B": "Permanent Crop Land",
+                    "R": "are part of"
+                },
+                {
+                    "A": "Vegetation",
+                    "B": "Permanent Crop Land",
+                    "R": "is on"
+                },
+                {
+                    "A": "Crop Rows",
+                    "B": "Regular Geometric Shapes",
+                    "R": "have"
+                },
+                {
+                    "A": "Vegetation",
+                    "B": "Consistent Green Texture",
+                    "R": "has"
+                }
+            ]
+        ]
+    },
+    "Residential Buildings": {
+        "overall_description": [
+            "Residential buildings in a centered satellite photo appear as clusters of mostly rectangular and regular-shaped structures, surrounded by greenery and roads.",
+            "Residential buildings can be recognized by their rectangular shape, regular spacing, and distinct roofs with chimney or protrusions in a centered satellite photo.",
+            "Residential buildings appear as smaller rectangular or square structures with distinct features such as roofs, windows, and doors on the satellite photo.",
+            "Residential buildings appear as clustered rectangular shapes, while other types of land exhibit different geometric shapes and textures such as vegetation.",
+            "Residential buildings typically have a regular grid pattern of roofs with sharp edges, distinct from the irregular shapes of natural land."
+        ],
+        "structure": [
+            [
+                {
+                    "A": "Residential buildings",
+                    "B": "clusters",
+                    "R": "appear as"
+                },
+                {
+                    "A": "Photo",
+                    "B": "Residential buildings",
+                    "R": "centered"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "Greenery",
+                    "R": "surrounded by"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "Roads",
+                    "R": "surrounded by"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "Rectangular-shaped",
+                    "R": "mostly"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "Regular-shaped",
+                    "R": "mostly"
+                }
+            ],
+            [
+                {
+                    "A": "Residential buildings",
+                    "B": "rectangular shape",
+                    "R": "can be recognized by"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "regular spacing",
+                    "R": "can be recognized by"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "distinct roofs",
+                    "R": "can be recognized by"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "chimney",
+                    "R": "can be recognized by"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "protrusions",
+                    "R": "can be recognized by"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "centered satellite photo",
+                    "R": "can be recognized by"
+                }
+            ],
+            [
+                {
+                    "A": "Residential buildings",
+                    "B": "Structures",
+                    "R": "appear as"
+                },
+                {
+                    "A": "Structures",
+                    "B": "Roofs",
+                    "R": "have"
+                },
+                {
+                    "A": "Structures",
+                    "B": "Windows",
+                    "R": "have"
+                },
+                {
+                    "A": "Structures",
+                    "B": "Doors",
+                    "R": "have"
+                },
+                {
+                    "A": "Satellite photo",
+                    "B": "Residential buildings",
+                    "R": "depicts"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "Rectangular or square",
+                    "R": "are"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "Distinct features",
+                    "R": "have"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "Smaller size",
+                    "R": "are"
+                }
+            ],
+            [
+                {
+                    "A": "Residential buildings",
+                    "B": "clustered rectangular shapes",
+                    "R": "appear as"
+                },
+                {
+                    "A": "land",
+                    "B": "different geometric shapes and textures",
+                    "R": "exhibit"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "clustered rectangular shapes",
+                    "R": "appear as"
+                },
+                {
+                    "A": "land",
+                    "B": "different geometric shapes and textures",
+                    "R": "exhibit"
+                },
+                {
+                    "A": "land",
+                    "B": "vegetation",
+                    "R": "exhibit"
+                }
+            ],
+            [
+                {
+                    "A": "Residential buildings",
+                    "B": "Roofs",
+                    "R": "have"
+                },
+                {
+                    "A": "Roofs",
+                    "B": "Natural land",
+                    "R": "different from"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "Regular grid pattern",
+                    "R": "have"
+                },
+                {
+                    "A": "Roofs",
+                    "B": "Sharp edges",
+                    "R": "have"
+                },
+                {
+                    "A": "Residential buildings",
+                    "B": "Distinct",
+                    "R": "have"
+                },
+                {
+                    "A": "Natural land",
+                    "B": "Irregular shapes",
+                    "R": "have"
+                }
+            ]
+        ]
+    },
+    "River": {
+        "overall_description": [
+            "A river in a centered satellite photo typically appears as a thin blue line winding through green or brown land.",
+            "The distinct features of a river in a centered satellite photo are its blue color, elongated shape, meandering pattern, and surrounding vegetation.",
+            "A river appears as a long, winding, blue strip amidst greenery or land, with a lighter shade indicating shallow areas.",
+            "Rivers appear as thin snaking lines with a darker shade of blue compared to other land features in a centered satellite photo.",
+            "The unique visual cue for River in a centered satellite photo is a distinct, sinuous, and meandering blue or green line indicating water flow."
+        ],
+        "structure": [
+            [
+                {
+                    "A": "River",
+                    "B": "Land",
+                    "R": "Winds through"
+                },
+                {
+                    "A": "River",
+                    "B": "Satellite Photo",
+                    "R": "Appears in"
+                },
+                {
+                    "A": "River",
+                    "B": "Thin Blue Line",
+                    "R": "Appears as"
+                },
+                {
+                    "A": "River",
+                    "B": "Green or Brown Land",
+                    "R": "Appears through"
+                },
+                {
+                    "A": "Satellite Photo",
+                    "B": "River",
+                    "R": "Centered on"
+                },
+                {
+                    "A": "River",
+                    "B": "Typically",
+                    "R": "Appears with"
+                }
+            ],
+            [
+                {
+                    "A": "River",
+                    "B": "Photo",
+                    "R": "in"
+                },
+                {
+                    "A": "River",
+                    "B": "Color",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "Shape",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "Pattern",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "Vegetation",
+                    "R": "has"
+                },
+                {
+                    "A": "Color",
+                    "B": "Blue",
+                    "R": "is"
+                },
+                {
+                    "A": "Shape",
+                    "B": "Elongated",
+                    "R": "is"
+                },
+                {
+                    "A": "Pattern",
+                    "B": "Meandering",
+                    "R": "is"
+                },
+                {
+                    "A": "River",
+                    "B": "Distinct",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "Elongated",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "Meandering",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "Surrounding",
+                    "R": "has"
+                }
+            ],
+            [
+                {
+                    "A": "River",
+                    "B": "Greenery",
+                    "R": "appears as"
+                },
+                {
+                    "A": "River",
+                    "B": "Land",
+                    "R": "appears as"
+                },
+                {
+                    "A": "River",
+                    "B": "long",
+                    "R": "appears as"
+                },
+                {
+                    "A": "River",
+                    "B": "winding",
+                    "R": "appears as"
+                },
+                {
+                    "A": "River",
+                    "B": "blue",
+                    "R": "appears as"
+                },
+                {
+                    "A": "River",
+                    "B": "lighter shade",
+                    "R": "appears as"
+                },
+                {
+                    "A": "River",
+                    "B": "shallow areas",
+                    "R": "indicates"
+                }
+            ],
+            [
+                {
+                    "A": "Rivers",
+                    "B": "land features",
+                    "R": "compared to"
+                },
+                {
+                    "A": "Rivers",
+                    "B": "satellite photo",
+                    "R": "in"
+                },
+                {
+                    "A": "Rivers",
+                    "B": "thin",
+                    "R": "appear as"
+                },
+                {
+                    "A": "Rivers",
+                    "B": "snaking lines",
+                    "R": "appear as"
+                },
+                {
+                    "A": "Rivers",
+                    "B": "darker shade",
+                    "R": "with"
+                },
+                {
+                    "A": "Rivers",
+                    "B": "blue",
+                    "R": "with"
+                },
+                {
+                    "A": "satellite photo",
+                    "B": "centered",
+                    "R": "in"
+                }
+            ],
+            [
+                {
+                    "A": "River",
+                    "B": "visual cue",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "centered satellite photo",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "distinct",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "sinuous",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "meandering",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "blue or green line",
+                    "R": "has"
+                },
+                {
+                    "A": "River",
+                    "B": "water flow",
+                    "R": "has"
+                }
+            ]
+        ]
+    },
+    "Sea or Lake": {
+        "overall_description": [
+            "In a centered satellite photo, a sea or lake appears as a large, circular or irregularly shaped body of blue water surrounded by land.",
+            "Distinct features for recognizing a sea or lake in a centered satellite photo include blue color, continuous boundary, and lack of vegetation.",
+            "Look for blue color indicating water, shoreline patterns and flatness of the area. Exclude urban or vegetation features nearby.",
+            "In a satellite photo, seas or lakes appear as blue, flat, and reflective bodies of water, while land appears as varying shades of green, brown, or grey with topographic features.",
+            "An extensive blue area with no visible structures or features, surrounded by land, indicates a sea or lake in a centered satellite photo."
+        ],
+        "structure": [
+            [
+                {
+                    "A": "Satellite photo",
+                    "B": "Sea",
+                    "R": "shows"
+                },
+                {
+                    "A": "Satellite photo",
+                    "B": "Lake",
+                    "R": "shows"
+                },
+                {
+                    "A": "Sea",
+                    "B": "Land",
+                    "R": "surrounded by"
+                },
+                {
+                    "A": "Lake",
+                    "B": "Land",
+                    "R": "surrounded by"
+                }
+            ],
+            [
+                {
+                    "A": "sea",
+                    "B": "photo",
+                    "R": "recognizing"
+                },
+                {
+                    "A": "lake",
+                    "B": "photo",
+                    "R": "recognizing"
+                },
+                {
+                    "A": "photo",
+                    "B": "blue color",
+                    "R": "centered"
+                },
+                {
+                    "A": "photo",
+                    "B": "continuous boundary",
+                    "R": "centered"
+                },
+                {
+                    "A": "photo",
+                    "B": "vegetation",
+                    "R": "lack of"
+                }
+            ],
+            [
+                {
+                    "A": "Blue color",
+                    "B": "Water",
+                    "R": "indicating"
+                },
+                {
+                    "A": "Water",
+                    "B": "Shoreline patterns",
+                    "R": "having"
+                },
+                {
+                    "A": "Flatness of the area",
+                    "B": "Water",
+                    "R": "indicating"
+                },
+                {
+                    "A": "Urban features",
+                    "B": "Water",
+                    "R": "nearby"
+                },
+                {
+                    "A": "Vegetation features",
+                    "B": "Water",
+                    "R": "nearby"
+                },
+                {
+                    "A": "Water",
+                    "B": "Blue color",
+                    "R": "indicating"
+                },
+                {
+                    "A": "Water",
+                    "B": "Urban features",
+                    "R": "excluding"
+                },
+                {
+                    "A": "Water",
+                    "B": "Vegetation features",
+                    "R": "excluding"
+                }
+            ],
+            [
+                {
+                    "A": "satellite photo",
+                    "B": "seas",
+                    "R": "shows"
+                },
+                {
+                    "A": "satellite photo",
+                    "B": "lakes",
+                    "R": "shows"
+                },
+                {
+                    "A": "water",
+                    "B": "blue",
+                    "R": "is"
+                },
+                {
+                    "A": "water",
+                    "B": "flat",
+                    "R": "is"
+                },
+                {
+                    "A": "water",
+                    "B": "reflective",
+                    "R": "is"
+                },
+                {
+                    "A": "land",
+                    "B": "varying shades",
+                    "R": "is"
+                },
+                {
+                    "A": "land",
+                    "B": "green",
+                    "R": "is"
+                },
+                {
+                    "A": "land",
+                    "B": "brown",
+                    "R": "is"
+                },
+                {
+                    "A": "land",
+                    "B": "grey",
+                    "R": "is"
+                },
+                {
+                    "A": "land",
+                    "B": "topographic features",
+                    "R": "has"
+                },
+                {
+                    "A": "seas",
+                    "B": "blue",
+                    "R": "appear as"
+                },
+                {
+                    "A": "seas",
+                    "B": "flat",
+                    "R": "appear as"
+                },
+                {
+                    "A": "seas",
+                    "B": "reflective",
+                    "R": "appear as"
+                },
+                {
+                    "A": "lakes",
+                    "B": "blue",
+                    "R": "appear as"
+                },
+                {
+                    "A": "lakes",
+                    "B": "flat",
+                    "R": "appear as"
+                },
+                {
+                    "A": "lakes",
+                    "B": "reflective",
+                    "R": "appear as"
+                },
+                {
+                    "A": "land",
+                    "B": "varying shades",
+                    "R": "appear as"
+                },
+                {
+                    "A": "land",
+                    "B": "green",
+                    "R": "appear as"
+                },
+                {
+                    "A": "land",
+                    "B": "brown",
+                    "R": "appear as"
+                },
+                {
+                    "A": "land",
+                    "B": "grey",
+                    "R": "appear as"
+                }
+            ],
+            [
+                {
+                    "A": "Blue area",
+                    "B": "Land",
+                    "R": "Located in or near"
+                },
+                {
+                    "A": "Blue area",
+                    "B": "Sea",
+                    "R": "Indicates"
+                },
+                {
+                    "A": "Blue area",
+                    "B": "Lake",
+                    "R": "Indicates"
+                },
+                {
+                    "A": "Blue area",
+                    "B": "Satellite photo",
+                    "R": "Visible in"
+                },
+                {
+                    "A": "Blue area",
+                    "B": "Extensive",
+                    "R": "Extent"
+                },
+                {
+                    "A": "Blue area",
+                    "B": "Blue",
+                    "R": "Color"
+                },
+                {
+                    "A": "Blue area",
+                    "B": "No visible structures or features",
+                    "R": "Visible features"
+                },
+                {
+                    "A": "Blue area",
+                    "B": "Land",
+                    "R": "Surrounded by"
+                },
+                {
+                    "A": "Sea",
+                    "B": "Blue area",
+                    "R": "Indicated by"
+                },
+                {
+                    "A": "Lake",
+                    "B": "Blue area",
+                    "R": "Indicated by"
+                },
+                {
+                    "A": "Satellite photo",
+                    "B": "Blue area",
+                    "R": "Centered on"
+                }
+            ]
+        ]
+    }
+}

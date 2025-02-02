@@ -1,4 +1,4 @@
-# bash ./scripts/xd_test_dg.sh imagenet_a
+# bash ./scripts/hpt/xd_test_dg.sh imagenet_a
 TRAINER=HPT
 CFG=xd
 SHOTS=16

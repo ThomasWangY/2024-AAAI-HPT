@@ -1,367 +1,480 @@
 {
     "Annual Crop Land": {
         "coarse_description": [
-            "The visual cue that is unique to Annual Crop Land is the presence of regularly patterned rows or furrows.",
-            "Annual crop land appears as a regularly patterned, uniform, and densely cultivated area in a centered satellite photo.",
-            "Annual Crop Land in a centered satellite photo appears as regularly arranged patches of small, uniform vegetation with distinct boundaries.",
-            "Annual crop land can be distinguished from other types of land by its uniform, geometrically arranged patterns of vegetation.",
-            "The typical texture or surface characteristics of Annual Crop Land in a centered satellite photo are uniform and regular patterns of vegetation."
+            "Annual Crop Land is characterized by rectangular or square shapes with uniform colors and patterns, indicating crop rows and fields.",
+            "Annual Crop Land appears as a grid of uniform, vibrant green or golden rectangles, often with straight edges and distinct boundaries.",
+            "Annual Crop Land appears as a patchwork of uniform, rectangular fields with varying shades of green and brown.",
+            "Annual crop land appears as uniform, geometric patterns of green or yellow fields, often with straight borders and roads.",
+            "Annual Crop Land typically exhibits a mosaic of green, uniform, and rectangular fields with subtle ridges and furrows."
         ],
         "fine_description": [
-            "Annual Crop Land is characterized by regular rotation of crops and absence of permanent vegetation throughout the year.",
-            "Annual Crop Land typically consists of regularly plowed and cultivated fields with crops that are replanted each year.",
-            "Annual crop land typically consists of cultivated fields that are replanted and harvested within a single growing season.",
-            "Annual crop land is characterized by fields with crops that are replanted and harvested within a single growing season.",
-            "The texture of annual crop land is typically characterized by regularly tilled soil with varying levels of vegetation."
+            "Annual Crop Land features prominently cultivated rows of uniform, dense, and regularly spaced plantings of annual crops.",
+            "Annual Crop Land typically features a uniform, cultivated landscape with rows of tall, dense, and often green vegetation.",
+            "Annual Crop Land features uniform, dense, and regularly maintained rows of cultivated plants with distinct growth stages.",
+            "Annual Crop Land is characterized by rows of uniform, lush, and vibrant green plants with varying heights and textures.",
+            "Annual Crop Land typically features smooth, uniform, and often bare soil surfaces with occasional rows of plants."
         ],
         "overall_description": [
-            "Annual Crop Land is identifiable by its regularly patterned rows or furrows and its practice of rotating crops with no permanent vegetation present year-round.",
-            "Annual crop land is a regularly patterned, uniform, and densely cultivated area with regularly plowed and cultivated fields containing crops replanted each year.",
-            "Annual Crop Land is typically characterized by regularly arranged patches of small, uniform vegetation with distinct boundaries, consisting of cultivated fields replanted and harvested within a single growing season.",
-            "Annual crop land is identified by its uniform, geometrically arranged patterns of vegetation and consists of fields where crops are replanted and harvested within a single growing season.",
-            "Annual Crop Land is characterized by uniform and regular patterns of vegetation on the surface, with regularly tilled soil and varying levels of vegetation."
+            "Annual Crop Land is characterized by rectangular or square shapes with uniform colors and patterns, featuring densely planted, regularly spaced rows of annual crops.",
+            "Annual Crop Land appears as a uniform, cultivated landscape with rows of tall, dense, and often green vegetation, featuring rectangular plots with straight edges and distinct boundaries.",
+            "Annual Crop Land is a patchwork of uniform, rectangular fields featuring dense, regularly maintained rows of cultivated plants with varying shades of green and brown, showcasing distinct growth stages.",
+            "Annual Crop Land is characterized by uniform, geometric patterns of lush, green or yellow fields with straight borders, roads, and rows of varying height and texture plants.",
+            "Annual Crop Land typically features uniform, rectangular fields with subtle ridges and furrows, or smooth, bare soil surfaces with occasional rows of plants, often exhibiting a mix of green and bare areas."
         ],
         "structure": [
             [
                 {
-                    "A": "Crop Land",
-                    "R": "is identifiable by",
-                    "B": "regularly patterned rows or furrows"
+                    "A": "Annual Crop Land",
+                    "R": "is characterized by",
+                    "B": "rectangular or square shapes with uniform colors and patterns"
                 },
                 {
-                    "A": "Crop Land",
-                    "R": "is identifiable by",
-                    "B": "practice of rotating crops with no permanent vegetation present year-round"
+                    "A": "Annual Crop Land",
+                    "R": "features",
+                    "B": "densely planted, regularly spaced rows of annual crops"
                 }
             ],
             [
                 {
-                    "A": "crop land",
-                    "R": "is",
-                    "B": "patterned"
+                    "A": "Annual Crop Land",
+                    "R": "appears",
+                    "B": "uniform, cultivated landscape"
                 },
                 {
-                    "A": "crop land",
-                    "R": "is",
-                    "B": "uniform"
+                    "A": "Annual Crop Land",
+                    "R": "has",
+                    "B": "rows of tall, dense, and often green vegetation"
                 },
                 {
-                    "A": "crop land",
-                    "R": "is",
-                    "B": "densely cultivated"
-                },
-                {
-                    "A": "crop land",
-                    "R": "contains",
-                    "B": "fields"
-                },
-                {
-                    "A": "fields",
-                    "R": "are",
-                    "B": "plowed"
-                },
-                {
-                    "A": "fields",
-                    "R": "are",
-                    "B": "cultivated"
-                },
-                {
-                    "A": "fields",
-                    "R": "contain",
-                    "B": "crops"
-                },
-                {
-                    "A": "crops",
-                    "R": "are",
-                    "B": "replanted"
-                },
-                {
-                    "A": "crops",
-                    "R": "are",
-                    "B": "each year"
+                    "A": "Annual Crop Land",
+                    "R": "features",
+                    "B": "rectangular plots with straight edges and distinct boundaries"
                 }
             ],
             [
                 {
-                    "A": "Crop Land",
-                    "R": "characterized by",
-                    "B": "arranged patches"
+                    "A": "Annual Crop Land",
+                    "R": "is",
+                    "B": "a patchwork"
                 },
                 {
-                    "A": "Crop Land",
-                    "R": "characterized by",
-                    "B": "uniform vegetation"
+                    "A": "a patchwork",
+                    "R": "of",
+                    "B": "uniform, rectangular fields"
                 },
                 {
-                    "A": "Crop Land",
-                    "R": "characterized by",
-                    "B": "distinct boundaries"
+                    "A": "uniform, rectangular fields",
+                    "R": "featuring",
+                    "B": "dense, regularly maintained rows of cultivated plants"
                 },
                 {
-                    "A": "Crop Land",
-                    "R": "consisting of",
-                    "B": "cultivated fields"
+                    "A": "dense, regularly maintained rows of cultivated plants",
+                    "R": "with",
+                    "B": "varying shades of green and brown"
                 },
                 {
-                    "A": "cultivated fields",
-                    "R": "replanted and harvested within",
-                    "B": "single growing season"
+                    "A": "varying shades of green and brown",
+                    "R": "showcasing",
+                    "B": "distinct growth stages"
                 }
             ],
             [
                 {
-                    "A": "crop land",
-                    "R": "is identified by",
-                    "B": "patterns of vegetation"
+                    "A": "Annual Crop Land",
+                    "R": "is characterized by",
+                    "B": "uniform, geometric patterns"
                 },
                 {
-                    "A": "crop land",
-                    "R": "consists of",
-                    "B": "fields"
+                    "A": "uniform, geometric patterns",
+                    "R": "of",
+                    "B": "lush, green or yellow fields"
                 },
                 {
-                    "A": "fields",
-                    "R": "are replanted and harvested within",
-                    "B": "a single growing season"
+                    "A": "lush, green or yellow fields",
+                    "R": "with",
+                    "B": "straight borders, roads, and rows"
+                },
+                {
+                    "A": "straight borders, roads, and rows",
+                    "R": "of",
+                    "B": "varying height and texture plants"
                 }
             ],
-            []
+            [
+                {
+                    "A": "Annual Crop Land",
+                    "R": "typically features",
+                    "B": "uniform, rectangular fields with subtle ridges and furrows"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "R": "typically features",
+                    "B": "smooth, bare soil surfaces with occasional rows of plants"
+                },
+                {
+                    "A": "Annual Crop Land",
+                    "R": "often exhibits",
+                    "B": "a mix of green and bare areas"
+                }
+            ]
         ]
     },
     "Forest": {
         "coarse_description": [
-            "Lush green vegetation covering a significant portion of the land is a unique visual cue for forests in satellite photos.",
-            "Forests appear as dense areas of tall trees with a green canopy, while other types of land appear less dense and may have different colors or textures.",
-            "A dense collection of tall and lush green trees covering a large area, with minimal human intervention.",
-            "Forests are characterized by dense vegetation and a high concentration of trees compared to other types of land.",
-            "The typical texture or surface characteristic of a forest in a satellite photo is dense and leafy vegetation."
+            "A unique visual cue of forest in a centered satellite photo is the dense, uniform canopy cover with varying shades of green.",
+            "Forest areas appear as dense, green patches with defined boundaries, contrasting with other land types like grasslands or deserts.",
+            "Forest areas in a centered satellite photo appear as dense, green, and irregularly shaped patches with varying tree densities.",
+            "Forest is distinguished by dense, uniform greenery with varying shades, contrasting with surrounding features like water or urban areas.",
+            "Forest areas typically exhibit a mix of green, brown, and tan hues with varying shades of texture, from smooth to rugged."
         ],
         "fine_description": [
-            "The presence of tall, densely packed trees with a closed canopy is a unique visual cue for Forest.",
-            "A forest is a dense, woody area with tall trees, creating a dark and shadowy environment with a thick canopy.",
-            "A forest is a dense, woody area characterized by tall trees and a closed canopy, providing shade and shelter.",
-            "A forest is characterized by dense clusters of tall trees, forming a canopy that blocks out most sunlight.",
-            "The forest typically has a dense and rough texture with a multitude of tall trees and thick undergrowth."
+            "Tall, dense tree canopy with a continuous layer of foliage, often with a closed or open understory.",
+            "A forest typically features a dense canopy of towering trees with sprawling canopies and complex networks of branches.",
+            "Forest is characterized by tall, dense, and layered tree canopies with a complex network of branches and foliage.",
+            "Forest is characterized by a dense canopy of trees with a continuous layer of foliage and a well-defined understory.",
+            "Forest typically features dense, rugged, and uneven tree bark, with rough, gnarled, and twisted trunks and branches."
         ],
         "overall_description": [
-            "Forests are characterized by lush green vegetation and tall, densely packed trees with a closed canopy, making them visually distinguishable in satellite photos.",
-            "A forest is a dense, shadowy environment with tall trees, creating a green canopy and a woody area with different colors and textures.",
-            "A forest is a vast expanse of dense, woody vegetation, consisting of tall, lush green trees, with a closed canopy that offers shade and shelter, and minimal human intervention.",
-            "Forests are areas with dense vegetation and a high concentration of tall trees, forming a canopy that blocks out most sunlight.",
-            "A forest is characterized by dense, leafy vegetation, tall trees, rough texture, and thick undergrowth, creating a dense and lush environment."
+            "A forest is characterized by a dense, uniform canopy cover with varying shades of green, featuring tall, dense trees with a continuous layer of foliage and a possible open or closed understory.",
+            "A forest is a dense, green area with defined boundaries, characterized by a towering canopy of trees with sprawling canopies and complex branch networks.",
+            "Forest is a dense, green, and irregularly shaped area with tall, layered tree canopies, complex branching, and varying tree densities, characterized by a lush and intricate foliage.",
+            "Forest is a dense and uniform ecosystem characterized by a continuous canopy of trees with varying shades of greenery, contrasting with surrounding features, and a well-defined understory.",
+            "A forest is characterized by a mix of green, brown, and tan hues, with dense, rugged, and uneven tree bark, rough, gnarled, and twisted trunks and branches."
         ],
         "structure": [
             [
                 {
-                    "A": "Forests",
-                    "R": "characterized by",
-                    "B": "lush green vegetation"
+                    "A": "forest",
+                    "R": "is",
+                    "B": "characterized"
                 },
                 {
-                    "A": "Forests",
-                    "R": "characterized by",
-                    "B": "tall, densely packed trees with a closed canopy"
+                    "A": "characterized",
+                    "R": "by",
+                    "B": "a dense, uniform canopy cover"
                 },
                 {
-                    "A": "Forests",
-                    "R": "visually distinguishable in",
-                    "B": "satellite photos"
+                    "A": "a dense, uniform canopy cover",
+                    "R": "with",
+                    "B": "varying shades of green"
+                },
+                {
+                    "A": "varying shades of green",
+                    "R": "featuring",
+                    "B": "tall, dense trees"
+                },
+                {
+                    "A": "tall, dense trees",
+                    "R": "with",
+                    "B": "a continuous layer of foliage"
+                },
+                {
+                    "A": "a continuous layer of foliage",
+                    "R": "and",
+                    "B": "a possible open or closed understory"
                 }
             ],
             [
                 {
                     "A": "forest",
                     "R": "is",
-                    "B": "environment"
+                    "B": "a dense, green area with defined boundaries"
+                },
+                {
+                    "A": "a dense, green area with defined boundaries",
+                    "R": "characterized by",
+                    "B": "a towering canopy of trees with sprawling canopies and complex branch networks"
+                },
+                {
+                    "A": "a towering canopy of trees with sprawling canopies and complex branch networks",
+                    "R": "has",
+                    "B": "towering canopy of trees with sprawling canopies and complex branch networks"
+                }
+            ],
+            [
+                {
+                    "A": "Forest",
+                    "R": "is",
+                    "B": "a dense, green, and irregularly shaped area"
+                },
+                {
+                    "A": "Forest",
+                    "R": "has",
+                    "B": "tall, layered tree canopies"
+                },
+                {
+                    "A": "Forest",
+                    "R": "has",
+                    "B": "complex branching"
+                },
+                {
+                    "A": "Forest",
+                    "R": "has",
+                    "B": "varying tree densities"
+                },
+                {
+                    "A": "Forest",
+                    "R": "is characterized by",
+                    "B": "a lush and intricate foliage"
+                }
+            ],
+            [
+                {
+                    "A": "satellite",
+                    "R": "photo",
+                    "B": "annual crop land"
+                },
+                {
+                    "A": "annual crop land",
+                    "R": "appears",
+                    "B": "mosaic"
+                },
+                {
+                    "A": "forest",
+                    "R": "is",
+                    "B": "dense and uniform ecosystem"
+                },
+                {
+                    "A": "dense and uniform ecosystem",
+                    "R": "characterized by",
+                    "B": "continuous canopy of trees"
+                },
+                {
+                    "A": "continuous canopy of trees",
+                    "R": "with",
+                    "B": "varying shades of greenery"
+                },
+                {
+                    "A": "forest",
+                    "R": "contrasting with",
+                    "B": "surrounding features"
                 },
                 {
                     "A": "forest",
                     "R": "has",
-                    "B": "trees"
-                },
+                    "B": "well-defined understory"
+                }
+            ],
+            [
                 {
-                    "A": "trees",
-                    "R": "create",
-                    "B": "canopy"
-                },
-                {
-                    "A": "canopy",
+                    "A": "forest",
                     "R": "is",
+                    "B": "characterized"
+                },
+                {
+                    "A": "forest",
+                    "R": "has",
+                    "B": "mix"
+                },
+                {
+                    "A": "mix",
+                    "R": "of",
                     "B": "green"
                 },
                 {
-                    "A": "forest",
-                    "R": "has",
-                    "B": "area"
+                    "A": "mix",
+                    "R": "of",
+                    "B": "brown"
                 },
                 {
-                    "A": "area",
-                    "R": "has",
-                    "B": "colors"
-                },
-                {
-                    "A": "area",
-                    "R": "has",
-                    "B": "textures"
-                }
-            ],
-            [
-                {
-                    "A": "forest",
-                    "R": "is",
-                    "B": "expanse"
+                    "A": "mix",
+                    "R": "of",
+                    "B": "tan"
                 },
                 {
                     "A": "forest",
-                    "R": "consists of",
-                    "B": "vegetation"
+                    "R": "has",
+                    "B": "dense"
                 },
                 {
-                    "A": "vegetation",
-                    "R": "is",
-                    "B": "woody"
+                    "A": "forest",
+                    "R": "has",
+                    "B": "rugged"
                 },
                 {
-                    "A": "vegetation",
+                    "A": "forest",
+                    "R": "has",
+                    "B": "uneven"
+                },
+                {
+                    "A": "tree bark",
                     "R": "is",
                     "B": "dense"
                 },
                 {
-                    "A": "vegetation",
-                    "R": "consists of",
-                    "B": "trees"
-                },
-                {
-                    "A": "trees",
-                    "R": "are",
-                    "B": "green"
-                },
-                {
-                    "A": "trees",
-                    "R": "are",
-                    "B": "lush"
-                },
-                {
-                    "A": "trees",
-                    "R": "have",
-                    "B": "canopy"
-                },
-                {
-                    "A": "canopy",
-                    "R": "offers",
-                    "B": "shade"
-                },
-                {
-                    "A": "canopy",
-                    "R": "offers",
-                    "B": "shelter"
-                },
-                {
-                    "A": "intervention",
+                    "A": "tree bark",
                     "R": "is",
-                    "B": "minimal"
+                    "B": "rugged"
                 },
                 {
-                    "A": "human",
-                    "R": "has",
-                    "B": "intervention"
-                }
-            ],
-            [
-                {
-                    "A": "Forests",
-                    "R": "are areas with",
-                    "B": "dense vegetation"
+                    "A": "tree bark",
+                    "R": "is",
+                    "B": "uneven"
                 },
                 {
-                    "A": "Forests",
-                    "R": "are areas with",
-                    "B": "a high concentration of tall trees"
+                    "A": "trunks",
+                    "R": "are",
+                    "B": "rough"
                 },
                 {
-                    "A": "a high concentration of tall trees",
-                    "R": "forming",
-                    "B": "a canopy"
+                    "A": "trunks",
+                    "R": "are",
+                    "B": "gnarled"
                 },
                 {
-                    "A": "a canopy",
-                    "R": "blocks out",
-                    "B": "most sunlight"
-                }
-            ],
-            [
+                    "A": "trunks",
+                    "R": "are",
+                    "B": "twisted"
+                },
                 {
-                    "A": "forest",
-                    "R": "is characterized by",
-                    "B": "dense, leafy vegetation, tall trees, rough texture, and thick undergrowth, creating a dense and lush environment"
+                    "A": "branches",
+                    "R": "are",
+                    "B": "rough"
+                },
+                {
+                    "A": "branches",
+                    "R": "are",
+                    "B": "gnarled"
+                },
+                {
+                    "A": "branches",
+                    "R": "are",
+                    "B": "twisted"
                 }
             ]
         ]
     },
     "Herbaceous Vegetation Land": {
         "coarse_description": [
-            "The unique visual cue of Herbaceous Vegetation Land in a centered satellite photo is the dense and vibrant green color.",
-            "Herbaceous vegetation land appears as a green, lush area with low-lying plants, distinguishing it from other land types.",
-            "Herbaceous vegetation land appears as a dense and vibrant green area with no prominent tree or shrub cover.",
-            "Herbaceous vegetation land is distinguished from other types of land by its green and dense coverage in satellite photos.",
-            "The typical texture or surface characteristic of Herbaceous Vegetation Land in a satellite photo is a smooth and green appearance."
+            "A distinctive pattern of green patches with irregular shapes and varying sizes is characteristic of Herbaceous Vegetation Land.",
+            "Herbaceous Vegetation Land appears as a vibrant, green, and varied mosaic of grasses, wildflowers, and other non-woody plants.",
+            "Herbaceous Vegetation Land appears as a mosaic of green patches with varying shapes, sizes, and densities amidst other land types.",
+            "Herbaceous Vegetation Land appears as a mosaic of green patches with varying shades and textures, often with winding paths or roads.",
+            "Herbaceous Vegetation Land typically features a mix of smooth, soft, and sometimes rough textures, with varying shades of green and brown hues."
         ],
         "fine_description": [
-            "Herbaceous Vegetation Land is characterized by low-growing, non-woody plants, while forests consist of tall, woody trees.",
-            "Herbaceous Vegetation Land appears as a low-lying and open area dominated by non-woody plants.",
-            "Herbaceous Vegetation Land is characterized by low-growing, non-woody plants with soft stems and foliage.",
-            "Herbaceous Vegetation Land appears as an open expanse of low-growing plants, lacking tall and dense tree coverage.",
-            "Herbaceous vegetation land typically has a smooth and grassy texture, without the presence of large woody trees."
+            "Herbaceous Vegetation Land features a dense understory of perennial grasses and wildflowers, often with a mix of shrubs and trees.",
+            "Herbaceous Vegetation Land typically features a diverse array of non-woody plants, such as grasses, wildflowers, and shrubs, in a dynamic, changing landscape.",
+            "Herbaceous Vegetation Land is characterized by a diverse mix of perennial and annual grasses, wildflowers, and shrubs with varying heights and textures.",
+            "Herbaceous Vegetation Land is characterized by a lush, diverse, and dynamic mix of grasses, wildflowers, and shrubs.",
+            "Herbaceous Vegetation Land typically features a dense, lush carpet of varied textures, including soft grasses, leafy stems, and delicate flower petals."
         ],
         "overall_description": [
-            "Herbaceous Vegetation Land is a type of land covered with low-growing, non-woody plants, appearing as a dense and vibrant green color in satellite photos, distinct from forests with tall, woody trees.",
-            "Herbaceous vegetation land is a low-lying and open green area dominated by non-woody plants, giving it a lush and distinct appearance from other land types.",
-            "Herbaceous Vegetation Land is a dense, vibrant green area with no prominent trees or shrubs, characterized by low-growing, non-woody plants with soft stems and foliage.",
-            "Herbaceous Vegetation Land is characterized by its green and dense coverage in satellite photos, consisting of low-growing plants without tall and dense tree coverage.",
-            "Herbaceous Vegetation Land is characterized by a smooth and green surface appearance, with a grassy texture and the absence of large woody trees."
+            "Herbaceous Vegetation Land features a mosaic of irregularly shaped green patches, comprising a dense understory of perennial grasses, wildflowers, and a mix of shrubs and trees.",
+            "Herbaceous Vegetation Land is a dynamic, vibrant landscape characterized by a diverse array of non-woody plants, including grasses, wildflowers, and shrubs, in a constantly changing mosaic of green hues.",
+            "Herbaceous Vegetation Land is a diverse mosaic of green patches featuring a mix of perennial and annual grasses, wildflowers, and shrubs with varying heights, textures, and densities amidst other land types.",
+            "Herbaceous Vegetation Land is a lush, dynamic mosaic of diverse green patches, featuring winding paths, varying shades, and textures, with a mix of grasses, wildflowers, and shrubs.",
+            "Herbaceous Vegetation Land typically features a dense, lush carpet of varied textures, including soft grasses, leafy stems, and delicate flower petals, with a mix of smooth, soft, and sometimes rough textures in shades of green and brown."
         ],
         "structure": [
             [
                 {
                     "A": "Herbaceous Vegetation Land",
-                    "R": "is",
-                    "B": "type of land covered with low-growing, non-woody plants"
+                    "R": "features",
+                    "B": "mosaic"
                 },
                 {
-                    "A": "type of land covered with low-growing, non-woody plants",
-                    "R": "appearing",
-                    "B": "as a dense and vibrant green color in satellite photos"
+                    "A": "mosaic",
+                    "R": "comprising",
+                    "B": "a dense understory"
                 },
                 {
-                    "A": "type of land covered with low-growing, non-woody plants",
-                    "R": "distinct from",
-                    "B": "forests with tall, woody trees"
+                    "A": "a dense understory",
+                    "R": "of",
+                    "B": "perennial grasses"
+                },
+                {
+                    "A": "perennial grasses",
+                    "R": "and",
+                    "B": "wildflowers"
+                },
+                {
+                    "A": "perennial grasses",
+                    "R": "and",
+                    "B": "a mix of shrubs and trees"
+                },
+                {
+                    "A": "a mix of shrubs and trees",
+                    "R": "and",
+                    "B": "wildflowers"
                 }
             ],
             [
                 {
-                    "A": "land",
-                    "R": "is dominated by",
-                    "B": "herbaceous vegetation"
-                },
-                {
-                    "A": "land",
+                    "A": "Herbaceous Vegetation Land",
                     "R": "is",
-                    "B": "low-lying"
+                    "B": "a dynamic, vibrant landscape"
                 },
                 {
-                    "A": "land",
+                    "A": "dynamic, vibrant landscape",
+                    "R": "characterized by",
+                    "B": "a diverse array of non-woody plants"
+                },
+                {
+                    "A": "a diverse array of non-woody plants",
+                    "R": "including",
+                    "B": "grasses, wildflowers, and shrubs"
+                },
+                {
+                    "A": "grasses, wildflowers, and shrubs",
+                    "R": "in",
+                    "B": "a constantly changing mosaic of green hues"
+                },
+                {
+                    "A": "a constantly changing mosaic of green hues",
+                    "R": "of",
+                    "B": "Herbaceous Vegetation Land"
+                }
+            ],
+            [
+                {
+                    "A": "Herbaceous Vegetation Land",
                     "R": "is",
-                    "B": "open"
+                    "B": "a diverse mosaic"
                 },
                 {
-                    "A": "land",
-                    "R": "has",
-                    "B": "green color"
+                    "A": "a diverse mosaic",
+                    "R": "of",
+                    "B": "green patches"
                 },
                 {
-                    "A": "land",
-                    "R": "is distinct from",
+                    "A": "green patches",
+                    "R": "featuring",
+                    "B": "a mix"
+                },
+                {
+                    "A": "a mix",
+                    "R": "of",
+                    "B": "perennial and annual grasses"
+                },
+                {
+                    "A": "perennial and annual grasses",
+                    "R": "and",
+                    "B": "wildflowers"
+                },
+                {
+                    "A": "perennial and annual grasses",
+                    "R": "and",
+                    "B": "shrubs"
+                },
+                {
+                    "A": "shrubs",
+                    "R": "with",
+                    "B": "varying heights"
+                },
+                {
+                    "A": "shrubs",
+                    "R": "with",
+                    "B": "textures"
+                },
+                {
+                    "A": "shrubs",
+                    "R": "with",
+                    "B": "densities"
+                },
+                {
+                    "A": "shrubs",
+                    "R": "amidst",
                     "B": "other land types"
                 }
             ],
@@ -369,935 +482,1369 @@
                 {
                     "A": "Herbaceous Vegetation Land",
                     "R": "is",
-                    "B": "dense, vibrant green area"
+                    "B": "a lush, dynamic mosaic"
                 },
                 {
-                    "A": "Herbaceous Vegetation Land",
-                    "R": "characterized by",
-                    "B": "low-growing, non-woody plants with soft stems and foliage"
+                    "A": "a lush, dynamic mosaic",
+                    "R": "of",
+                    "B": "diverse green patches"
+                },
+                {
+                    "A": "diverse green patches",
+                    "R": "featuring",
+                    "B": "winding paths, varying shades, and textures"
+                },
+                {
+                    "A": "diverse green patches",
+                    "R": "with",
+                    "B": "a mix of grasses, wildflowers, and shrubs"
+                },
+                {
+                    "A": "a mix of grasses, wildflowers, and shrubs",
+                    "R": "of",
+                    "B": "diverse green patches"
                 }
             ],
             [
                 {
                     "A": "Herbaceous Vegetation Land",
-                    "R": "is characterized by",
-                    "B": "green and dense coverage in satellite photos"
+                    "R": "features",
+                    "B": "dense, lush carpet"
                 },
                 {
-                    "A": "Herbaceous Vegetation Land",
-                    "R": "consists of",
-                    "B": "low-growing plants without tall and dense tree coverage"
-                }
-            ],
-            [
-                {
-                    "A": "Herbaceous Vegetation Land",
-                    "R": "characterized by",
-                    "B": "smooth and green surface appearance"
+                    "A": "dense, lush carpet",
+                    "R": "of",
+                    "B": "varied textures"
                 },
                 {
-                    "A": "Herbaceous Vegetation Land",
-                    "R": "characterized by",
-                    "B": "grassy texture"
+                    "A": "varied textures",
+                    "R": "including",
+                    "B": "soft grasses"
                 },
                 {
-                    "A": "Herbaceous Vegetation Land",
-                    "R": "characterized by",
-                    "B": "absence of large woody trees"
+                    "A": "varied textures",
+                    "R": "including",
+                    "B": "leafy stems"
+                },
+                {
+                    "A": "varied textures",
+                    "R": "including",
+                    "B": "delicate flower petals"
+                },
+                {
+                    "A": "dense, lush carpet",
+                    "R": "with",
+                    "B": "mix of smooth, soft, and sometimes rough textures"
+                },
+                {
+                    "A": "mix of smooth, soft, and sometimes rough textures",
+                    "R": "in",
+                    "B": "shades of green and brown"
                 }
             ]
         ]
     },
     "Highway or Road": {
         "coarse_description": [
-            "Linear patterns of parallel lines or lanes running horizontally or vertically across the image indicate the presence of a highway or road.",
-            "Highways or roads in a centered satellite photo appear as long, straight lines connecting different areas, distinguishing them from other types of land.",
-            "A highway or road in a satellite photo appears as a linear, narrow, and paved path, connecting different areas.",
-            "Highways or roads in a centered satellite photo are distinguished by their long and narrow linear shape.",
-            "The typical texture or surface characteristic of a highway or road in a centered satellite photo is smooth and asphalt-like."
+            "A highway or road is characterized by a linear, man-made feature with a distinctive, uniform width and alignment.",
+            "Highways or roads appear as linear, man-made features with distinct edges, often with visible lanes, markings, and surrounding infrastructure.",
+            "Highways or roads appear as long, thin, linear features with defined edges, often with visible lanes and markings.",
+            "Highways or roads appear as straight or curved linear features with defined edges, often with a darker or lighter tone than surrounding terrain.",
+            "Highways or roads typically exhibit a smooth, straight, and uniform gray or asphalt-colored surface with occasional markings and lines."
         ],
         "fine_description": [
-            "Highways or roads typically have distinct lines or markings, indicating lanes and traffic direction, unlike permanent crop land.",
-            "Highways or roads typically have a smooth, flat surface with clearly marked lanes and are designed for vehicular traffic.",
-            "Highways or roads typically have a smooth, paved surface with markings for vehicles and are surrounded by open spaces.",
-            "A highway or road is typically paved and designed for vehicular traffic, while permanent crop land consists of cultivated fields or orchards.",
-            "Highways or roads typically have smooth and paved surfaces, while permanent crop land may have uneven and natural textures."
+            "A Highway or Road features a continuous, winding, or straight path of asphalt or concrete with marked lanes.",
+            "Highways or roads are long, linear paths with a smooth surface, marked by lines, signs, and often flanked by guardrails.",
+            "A highway or road is characterized by a long, flat, and narrow surface with marked lanes and a defined median.",
+            "A highway or road is a long, linear infrastructure with a defined path, often marked by lines and bounded by curbs or medians.",
+            "Highways typically feature a smooth, asphalt or concrete surface with subtle ridges and grooves for traction."
         ],
         "overall_description": [
-            "Highways or roads are characterized by linear patterns of parallel lines or lanes running horizontally or vertically, with distinct markings indicating lanes and traffic direction.",
-            "Highways or roads are long, straight lines connecting areas, visible in satellite photos, with smooth, flat surfaces, clearly marked lanes, and intended for vehicular traffic.",
-            "A highway or road is a linear, narrow, and paved path that connects different areas, featuring a smooth surface with vehicle markings and surrounded by open spaces.",
-            "Highways or roads are long and narrow linear features that are paved and designed for vehicular traffic, contrasting with cultivated fields or orchards of permanent crop land.",
-            "Highways or roads are characterized by smooth and asphalt-like surfaces, while permanent crop land has uneven and natural textures."
+            "A highway or road is a man-made, linear feature with a uniform width and alignment, featuring a continuous path of asphalt or concrete with marked lanes.",
+            "Highways or roads are long, linear paths with smooth surfaces, marked by lines, signs, and distinct edges, often featuring visible lanes, markings, and surrounding infrastructure, including guardrails.",
+            "A highway or road is a long, flat, and narrow surface with defined edges, marked lanes, and a median, appearing as a linear feature with visible boundaries.",
+            "Highways or roads are long, linear infrastructure features with defined paths, marked by lines, and bounded by curbs or medians, appearing as straight or curved features with distinct edges and varying tones.",
+            "Highways or roads typically have a smooth, uniform gray or asphalt-colored surface with occasional markings and lines, featuring subtle ridges and grooves for traction."
         ],
         "structure": [
             [
                 {
-                    "A": "Highways or roads",
-                    "R": "are characterized by",
-                    "B": "linear patterns of parallel lines or lanes"
+                    "A": "highway or road",
+                    "R": "is",
+                    "B": "man-made"
                 },
                 {
-                    "A": "linear patterns of parallel lines or lanes",
-                    "R": "running",
-                    "B": "horizontally or vertically"
+                    "A": "highway or road",
+                    "R": "has",
+                    "B": "uniform width"
                 },
                 {
-                    "A": "linear patterns of parallel lines or lanes",
-                    "R": "indicating",
-                    "B": "lanes and traffic direction"
+                    "A": "highway or road",
+                    "R": "has",
+                    "B": "alignment"
+                },
+                {
+                    "A": "highway or road",
+                    "R": "features",
+                    "B": "continuous path"
+                },
+                {
+                    "A": "highway or road",
+                    "R": "features",
+                    "B": "asphalt or concrete"
+                },
+                {
+                    "A": "highway or road",
+                    "R": "features",
+                    "B": "marked lanes"
                 }
             ],
             [
                 {
                     "A": "Highways or roads",
                     "R": "are",
-                    "B": "long, straight lines connecting areas"
-                },
-                {
-                    "A": "Highways or roads",
-                    "R": "visible in",
-                    "B": "satellite photos"
+                    "B": "long, linear paths"
                 },
                 {
                     "A": "Highways or roads",
                     "R": "have",
-                    "B": "smooth, flat surfaces"
+                    "B": "smooth surfaces"
                 },
                 {
                     "A": "Highways or roads",
-                    "R": "have",
-                    "B": "clearly marked lanes"
+                    "R": "are",
+                    "B": "marked by lines, signs, and distinct edges"
                 },
                 {
                     "A": "Highways or roads",
-                    "R": "are intended for",
-                    "B": "vehicular traffic"
+                    "R": "often feature",
+                    "B": "visible lanes, markings, and surrounding infrastructure"
+                },
+                {
+                    "A": "Highways or roads",
+                    "R": "include",
+                    "B": "guardrails"
                 }
             ],
             [
                 {
                     "A": "highway or road",
                     "R": "is",
-                    "B": "linear, narrow, and paved path"
+                    "B": "a long, flat, and narrow surface"
                 },
                 {
                     "A": "highway or road",
-                    "R": "connects",
-                    "B": "different areas"
-                },
-                {
-                    "A": "path",
-                    "R": "features",
-                    "B": "smooth surface with vehicle markings"
-                },
-                {
-                    "A": "path",
-                    "R": "surrounded by",
-                    "B": "open spaces"
-                }
-            ],
-            [
-                {
-                    "A": "Highways or roads",
-                    "R": "are",
-                    "B": "linear features"
-                },
-                {
-                    "A": "linear features",
-                    "R": "are",
-                    "B": "long and narrow"
-                },
-                {
-                    "A": "linear features",
-                    "R": "are designed for",
-                    "B": "vehicular traffic"
-                },
-                {
-                    "A": "linear features",
-                    "R": "contrast with",
-                    "B": "cultivated fields or orchards"
-                },
-                {
-                    "A": "cultivated fields or orchards",
-                    "R": "are",
-                    "B": "permanent crop land"
-                }
-            ],
-            [
-                {
-                    "A": "Highways or roads",
-                    "R": "characterized by",
-                    "B": "smooth and asphalt-like surfaces"
-                },
-                {
-                    "A": "permanent crop land",
                     "R": "has",
-                    "B": "uneven and natural textures"
+                    "B": "defined edges"
+                },
+                {
+                    "A": "highway or road",
+                    "R": "has",
+                    "B": "marked lanes"
+                },
+                {
+                    "A": "highway or road",
+                    "R": "has",
+                    "B": "a median"
+                },
+                {
+                    "A": "highway or road",
+                    "R": "appears as",
+                    "B": "a linear feature with visible boundaries"
+                }
+            ],
+            [
+                {
+                    "A": "Highways or roads",
+                    "R": "are",
+                    "B": "long, linear infrastructure features"
+                },
+                {
+                    "A": "Highways or roads",
+                    "R": "have",
+                    "B": "defined paths"
+                },
+                {
+                    "A": "Highways or roads",
+                    "R": "are",
+                    "B": "marked by lines"
+                },
+                {
+                    "A": "Highways or roads",
+                    "R": "are",
+                    "B": "bounded by curbs or medians"
+                },
+                {
+                    "A": "Highways or roads",
+                    "R": "appear",
+                    "B": "as straight or curved features"
+                },
+                {
+                    "A": "Highways or roads",
+                    "R": "have",
+                    "B": "distinct edges"
+                },
+                {
+                    "A": "Highways or roads",
+                    "R": "have",
+                    "B": "varying tones"
+                }
+            ],
+            [
+                {
+                    "A": "highways",
+                    "R": "have",
+                    "B": "smooth, uniform gray or asphalt-colored surface"
+                },
+                {
+                    "A": "highways",
+                    "R": "typically",
+                    "B": "roads"
+                },
+                {
+                    "A": "roads",
+                    "R": "have",
+                    "B": "smooth, uniform gray or asphalt-colored surface"
+                },
+                {
+                    "A": "roads",
+                    "R": "typically",
+                    "B": "highways"
+                },
+                {
+                    "A": "smooth, uniform gray or asphalt-colored surface",
+                    "R": "feature",
+                    "B": "occasional markings and lines"
+                },
+                {
+                    "A": "smooth, uniform gray or asphalt-colored surface",
+                    "R": "have",
+                    "B": "subtle ridges and grooves for traction"
                 }
             ]
         ]
     },
     "Industrial Buildings": {
         "coarse_description": [
-            "The presence of large smokestacks or tall chimneys is a visual cue unique to Industrial Buildings in a centered satellite photo.",
-            "Industrial buildings in a centered satellite photo appear as large structures with smokestacks and machinery, distinct from other types of land.",
-            "Industrial buildings in a centered satellite photo can be identified by their large size, rectangular shape, and presence of smokestacks or loading docks.",
-            "Industrial buildings in a centered satellite photo can be distinguished by their large size, regular shapes, and presence of loading docks.",
-            "Typical textures or surface characteristics of industrial buildings in a centered satellite photo include large, flat roofs and metallic or concrete exteriors."
+            "Industrial buildings are often characterized by a grid-like pattern of rectangular structures with straight lines and right angles.",
+            "Industrial buildings appear as clusters of rectangular structures with varying sizes, often surrounded by parking lots and storage areas.",
+            "Industrial buildings appear as rectangular or linear structures with flat roofs, often with metal or concrete exteriors and minimal landscaping.",
+            "Industrial buildings appear as clusters of rectangular structures with straight lines, sharp angles, and occasional smoke or pollution plumes.",
+            "Industrial buildings typically exhibit rough, weathered, and rusted metal surfaces, with occasional concrete, brick, or asphalt textures."
         ],
         "fine_description": [
-            "Industrial buildings often have large smokestacks or chimneys that are not typically found in residential buildings.",
-            "Industrial buildings typically have large, plain exteriors with minimal windows and a utilitarian design.",
-            "Industrial buildings typically have large open spaces, high ceilings, and are designed for commercial or manufacturing purposes.",
-            "Industrial buildings are typically characterized by their large size, plain facades, and extensive use of metal and concrete.",
-            "Industrial buildings typically have rougher textures and utilitarian surfaces, such as exposed concrete and corrugated metal."
+            "Industrial Buildings are typically marked by large, rectangular structures with corrugated metal or concrete exteriors and multiple loading docks.",
+            "Industrial Buildings typically feature large, rectangular structures with metal or concrete exteriors, often with loading docks, vents, and functional architecture.",
+            "Industrial Buildings are typically characterized by functional, utilitarian designs with exposed structural elements, such as steel beams and concrete blocks.",
+            "Industrial Buildings are typically characterized by large, rectangular structures with corrugated metal or concrete facades and functional, utilitarian designs.",
+            "Industrial Buildings typically feature rough, weathered concrete, corrugated metal, and exposed brick, with prominent rivets and rusty accents."
         ],
         "overall_description": [
-            "Industrial buildings are characterized by the distinctive presence of large smokestacks or tall chimneys, which are not commonly found in residential buildings.",
-            "Industrial buildings are large, distinct structures with smokestacks and machinery, featuring plain exteriors, minimal windows, and a utilitarian design.",
-            "Industrial buildings are large, rectangular structures seen in satellite photos with smokestacks or loading docks, featuring open spaces, high ceilings, and designed for commercial or manufacturing purposes.",
-            "Industrial buildings are large, regularly-shaped structures with plain facades, extensive use of metal and concrete, loading docks, and are often seen in centered satellite photos.",
-            "Industrial buildings are characterized by large, flat roofs, metallic or concrete exteriors, and utilitarian surfaces like exposed concrete and corrugated metal."
+            "Industrial buildings typically feature large, rectangular structures with straight lines, right angles, and exteriors made of corrugated metal or concrete, often with multiple loading docks.",
+            "Industrial buildings are clusters of rectangular structures with varying sizes, featuring metal or concrete exteriors, loading docks, vents, and functional architecture, often surrounded by parking lots and storage areas.",
+            "Industrial buildings are rectangular or linear structures with flat roofs, metal or concrete exteriors, and minimal landscaping, featuring functional designs with exposed structural elements like steel beams and concrete blocks.",
+            "Industrial buildings are typically large, rectangular structures with straight lines, sharp angles, and corrugated metal or concrete facades, often with functional and utilitarian designs.",
+            "Industrial buildings typically exhibit rough, weathered surfaces with a mix of metal, concrete, brick, and asphalt textures, often featuring corrugated metal, exposed brick, rivets, and rusty accents."
         ],
         "structure": [
             [
                 {
-                    "A": "buildings",
-                    "R": "characterized by",
-                    "B": "presence of smokestacks or tall chimneys"
+                    "A": "Industrial buildings",
+                    "R": "typically feature",
+                    "B": "large, rectangular structures"
                 },
                 {
-                    "A": "smokestacks or tall chimneys",
-                    "R": "not commonly found in",
-                    "B": "residential buildings"
-                }
-            ],
-            [
-                {
-                    "A": "buildings",
-                    "R": "are",
-                    "B": "structures"
-                },
-                {
-                    "A": "structures",
-                    "R": "feature",
-                    "B": "exteriors"
-                },
-                {
-                    "A": "structures",
-                    "R": "feature",
-                    "B": "windows"
-                },
-                {
-                    "A": "structures",
-                    "R": "feature",
-                    "B": "design"
-                }
-            ],
-            [
-                {
-                    "A": "buildings",
-                    "R": "are",
-                    "B": "structures"
-                },
-                {
-                    "A": "structures",
-                    "R": "seen in",
-                    "B": "photos"
-                },
-                {
-                    "A": "structures",
-                    "R": "featuring",
-                    "B": "spaces"
-                },
-                {
-                    "A": "structures",
-                    "R": "featuring",
-                    "B": "ceilings"
-                },
-                {
-                    "A": "structures",
-                    "R": "designed for",
-                    "B": "purposes"
-                }
-            ],
-            [
-                {
-                    "A": "buildings",
-                    "R": "are",
-                    "B": "structures"
-                },
-                {
-                    "A": "buildings",
+                    "A": "large, rectangular structures",
                     "R": "have",
-                    "B": "facades"
+                    "B": "straight lines"
                 },
                 {
-                    "A": "use",
-                    "R": "of",
-                    "B": "metal"
-                },
-                {
-                    "A": "use",
-                    "R": "of",
-                    "B": "concrete"
-                },
-                {
-                    "A": "buildings",
+                    "A": "large, rectangular structures",
                     "R": "have",
+                    "B": "right angles"
+                },
+                {
+                    "A": "large, rectangular structures",
+                    "R": "have",
+                    "B": "exteriors made of corrugated metal or concrete"
+                },
+                {
+                    "A": "large, rectangular structures",
+                    "R": "often have",
+                    "B": "multiple loading docks"
+                }
+            ],
+            [
+                {
+                    "A": "Industrial buildings",
+                    "R": "are",
+                    "B": "clusters"
+                },
+                {
+                    "A": "clusters",
+                    "R": "of",
+                    "B": "rectangular structures"
+                },
+                {
+                    "A": "rectangular structures",
+                    "R": "with",
+                    "B": "varying sizes"
+                },
+                {
+                    "A": "rectangular structures",
+                    "R": "featuring",
+                    "B": "metal or concrete exteriors"
+                },
+                {
+                    "A": "rectangular structures",
+                    "R": "featuring",
                     "B": "loading docks"
                 },
                 {
-                    "A": "buildings",
-                    "R": "are",
-                    "B": "seen"
+                    "A": "rectangular structures",
+                    "R": "featuring",
+                    "B": "vents"
                 },
                 {
-                    "A": "buildings",
-                    "R": "in",
-                    "B": "photos"
+                    "A": "rectangular structures",
+                    "R": "featuring",
+                    "B": "functional architecture"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "often",
+                    "B": "surrounded by"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "often",
+                    "B": "parking lots and storage areas"
                 }
             ],
             [
                 {
-                    "A": "buildings",
-                    "R": "characterized by",
-                    "B": "large, flat roofs"
+                    "A": "Industrial buildings",
+                    "R": "are",
+                    "B": "rectangular or linear structures"
                 },
                 {
-                    "A": "buildings",
-                    "R": "characterized by",
-                    "B": "metallic or concrete exteriors"
+                    "A": "rectangular or linear structures",
+                    "R": "with",
+                    "B": "flat roofs"
                 },
                 {
-                    "A": "surfaces",
+                    "A": "flat roofs",
+                    "R": "with",
+                    "B": "metal or concrete exteriors"
+                },
+                {
+                    "A": "metal or concrete exteriors",
+                    "R": "and",
+                    "B": "minimal landscaping"
+                },
+                {
+                    "A": "minimal landscaping",
+                    "R": "and",
+                    "B": "functional designs"
+                },
+                {
+                    "A": "functional designs",
+                    "R": "with",
+                    "B": "exposed structural elements"
+                },
+                {
+                    "A": "exposed structural elements",
                     "R": "like",
-                    "B": "exposed concrete and corrugated metal"
+                    "B": "steel beams"
+                },
+                {
+                    "A": "steel beams",
+                    "R": "and",
+                    "B": "concrete blocks"
+                }
+            ],
+            [
+                {
+                    "A": "Industrial buildings",
+                    "R": "are",
+                    "B": "typically large"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "are",
+                    "B": "rectangular structures"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "have",
+                    "B": "straight lines"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "have",
+                    "B": "sharp angles"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "have",
+                    "B": "corrugated metal or concrete facades"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "often have",
+                    "B": "functional and utilitarian designs"
+                }
+            ],
+            [
+                {
+                    "A": "Industrial buildings",
+                    "R": "exhibit",
+                    "B": "rough surfaces"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "have",
+                    "B": "weathered surfaces"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "feature",
+                    "B": "mix of metal, concrete, brick, and asphalt textures"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "have",
+                    "B": "corrugated metal"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "have",
+                    "B": "exposed brick"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "have",
+                    "B": "rivets"
+                },
+                {
+                    "A": "Industrial buildings",
+                    "R": "have",
+                    "B": "rusty accents"
                 }
             ]
         ]
     },
     "Pasture Land": {
         "coarse_description": [
-            "The presence of grazing livestock is a unique visual cue for Pasture Land in a centered satellite photo.",
-            "Pasture land appears as a green area with scattered patches, while other types of land have varying colors and patterns.",
-            "Vibrant green color, with scattered patches of various shades, indicating a mix of grasses and possibly some grazing animals.",
-            "Pasture land can be distinguished from other types of land in a centered satellite photo by its lush green vegetation.",
-            "Pasture land in a centered satellite photo typically exhibits a smooth and uniform texture with scattered patches of vegetation."
+            "Pasture Land is distinguished by its uniform green color and scattered, irregularly-shaped patches of darker green trees.",
+            "Pasture Land appears as a patchwork of green, with varying shades of grass and occasional clusters of trees or farm buildings.",
+            "Pasture Land appears as a lush, green area with scattered trees and occasional farm structures, often surrounded by fences.",
+            "Pasture Land appears as a patchwork of green, irregularly shaped areas with scattered trees and gentle undulations.",
+            "Pasture Land typically exhibits a uniform, lush, and slightly wavy green texture with scattered darker spots."
         ],
         "fine_description": [
-            "Pasture land is characterized by the presence of grazing animals and a predominantly grassy vegetation cover.",
-            "Pasture land typically appears as an open field covered in grass or other vegetation, suitable for grazing livestock.",
-            "Pasture land is characterized by open areas of grasses and forage plants used for grazing livestock.",
-            "Pasture land is visually characterized by extensive grass coverage and absence of permanent crops.",
-            "Pasture land typically has a grassy texture with a relatively even surface, suitable for grazing animals."
+            "Pasture Land features scattered, unevenly distributed grasses and wildflowers, with occasional shrubs and small trees.",
+            "Pasture Land typically features lush, green grasses and wildflowers, often with scattered trees and minimal to no crop rows.",
+            "Pasture Land features a lush, green landscape with scattered grasses, wildflowers, and occasional shrubs, often with visible grazing paths.",
+            "Pasture Land is characterized by lush, green grasses and wildflowers, often with scattered trees and minimal infrastructure.",
+            "Pasture Land typically features a lush, uneven, and slightly rough surface with scattered tufts of grass and occasional wildflowers."
         ],
         "overall_description": [
-            "Pasture land is visually identified by grazing livestock in a centered satellite photo, featuring predominantly grassy vegetation cover and the presence of grazing animals.",
-            "Pasture land is a green open field with scattered patches, covered in grass or other vegetation, suitable for grazing livestock.",
-            "Pasture land is an open, vibrant green area with scattered patches of various shades, consisting of a mix of grasses, forage plants, and grazing livestock.",
-            "Pasture land is easily identifiable in satellite photos due to its lush green vegetation, extensive grass coverage, and the absence of permanent crops.",
-            "Pasture land is characterized by a smooth and uniform texture with scattered patches of vegetation, providing a grassy and even surface suitable for grazing animals."
+            "Pasture Land is characterized by its uniform green color, with scattered, irregularly-shaped patches of darker green trees, and features unevenly distributed grasses, wildflowers, shrubs, and small trees.",
+            "Pasture Land is a scenic area featuring a patchwork of lush, green grasses and wildflowers, with scattered trees and minimal crop rows, often including farm buildings.",
+            "Pasture Land is a lush, green area with scattered trees, grasses, wildflowers, and shrubs, often surrounded by fences and featuring visible grazing paths and occasional farm structures.",
+            "Pasture Land is a patchwork of lush, green areas with scattered trees, gentle undulations, and minimal infrastructure, featuring lush grasses and wildflowers in a serene and natural setting.",
+            "Pasture Land typically features a lush, uneven surface with a slightly rough texture, exhibiting a mix of uniform green and darker spots, with scattered tufts of grass and occasional wildflowers."
         ],
         "structure": [
             [
                 {
-                    "A": "satellite",
-                    "R": "contains",
-                    "B": "Pasture land"
-                },
-                {
-                    "A": "Pasture land",
-                    "R": "identified by",
-                    "B": "grazing livestock"
-                },
-                {
-                    "A": "Pasture land",
-                    "R": "features",
-                    "B": "grassy vegetation cover"
-                },
-                {
-                    "A": "Pasture land",
-                    "R": "presence of",
-                    "B": "grazing animals"
-                }
-            ],
-            [
-                {
-                    "A": "Pasture land",
+                    "A": "Pasture Land",
                     "R": "is",
-                    "B": "a green open field with scattered patches, covered in grass or other vegetation, suitable for grazing livestock."
+                    "B": "characterized"
+                },
+                {
+                    "A": "Pasture Land",
+                    "R": "has",
+                    "B": "uniform green color"
+                },
+                {
+                    "A": "Pasture Land",
+                    "R": "has",
+                    "B": "scattered, irregularly-shaped patches of darker green trees"
+                },
+                {
+                    "A": "Pasture Land",
+                    "R": "has",
+                    "B": "unevenly distributed grasses"
+                },
+                {
+                    "A": "Pasture Land",
+                    "R": "has",
+                    "B": "wildflowers"
+                },
+                {
+                    "A": "Pasture Land",
+                    "R": "has",
+                    "B": "shrubs"
+                },
+                {
+                    "A": "Pasture Land",
+                    "R": "has",
+                    "B": "small trees"
                 }
             ],
             [
                 {
-                    "A": "Pasture land",
-                    "R": "is",
-                    "B": "an open, vibrant green area with scattered patches of various shades, consisting of a mix of grasses, forage plants, and grazing livestock."
-                }
-            ],
-            [
-                {
-                    "A": "satellite photos",
+                    "A": "satellite photo",
                     "R": "contains",
-                    "B": "Pasture land"
+                    "B": "annual crop land"
                 },
                 {
-                    "A": "Pasture land",
-                    "R": "is identifiable",
-                    "B": "lush green vegetation"
+                    "A": "annual crop land",
+                    "R": "appears",
+                    "B": "mosaic"
                 },
                 {
-                    "A": "Pasture land",
-                    "R": "is identifiable",
-                    "B": "extensive grass coverage"
+                    "A": "Pasture Land",
+                    "R": "is",
+                    "B": "scenic area"
                 },
                 {
-                    "A": "Pasture land",
-                    "R": "is identifiable",
-                    "B": "absence of permanent crops"
+                    "A": "scenic area",
+                    "R": "featuring",
+                    "B": "patchwork"
+                },
+                {
+                    "A": "patchwork",
+                    "R": "of",
+                    "B": "lush, green grasses and wildflowers"
+                },
+                {
+                    "A": "lush, green grasses and wildflowers",
+                    "R": "with",
+                    "B": "scattered trees"
+                },
+                {
+                    "A": "lush, green grasses and wildflowers",
+                    "R": "with",
+                    "B": "minimal crop rows"
+                },
+                {
+                    "A": "lush, green grasses and wildflowers",
+                    "R": "including",
+                    "B": "farm buildings"
                 }
             ],
             [
                 {
-                    "A": "land",
-                    "R": "characterized by",
-                    "B": "texture"
+                    "A": "Pasture Land",
+                    "R": "is",
+                    "B": "a lush, green area"
                 },
                 {
-                    "A": "land",
-                    "R": "characterized by",
-                    "B": "patches of vegetation"
+                    "A": "a lush, green area",
+                    "R": "with",
+                    "B": "scattered trees, grasses, wildflowers, and shrubs"
                 },
                 {
-                    "A": "land",
-                    "R": "providing",
-                    "B": "surface"
+                    "A": "scattered trees, grasses, wildflowers, and shrubs",
+                    "R": "and",
+                    "B": "often surrounded by fences and featuring visible grazing paths and occasional farm structures"
                 },
                 {
-                    "A": "surface",
-                    "R": "suitable for",
-                    "B": "grazing animals"
+                    "A": "often surrounded by fences and featuring visible grazing paths and occasional farm structures",
+                    "R": "is",
+                    "B": "Pasture Land"
+                }
+            ],
+            [
+                {
+                    "A": "Pasture Land",
+                    "R": "is",
+                    "B": "a patchwork"
+                },
+                {
+                    "A": "a patchwork",
+                    "R": "of",
+                    "B": "lush, green areas"
+                },
+                {
+                    "A": "lush, green areas",
+                    "R": "with",
+                    "B": "scattered trees"
+                },
+                {
+                    "A": "lush, green areas",
+                    "R": "with",
+                    "B": "gentle undulations"
+                },
+                {
+                    "A": "lush, green areas",
+                    "R": "with",
+                    "B": "minimal infrastructure"
+                },
+                {
+                    "A": "lush grasses and wildflowers",
+                    "R": "in",
+                    "B": "a serene and natural setting"
+                }
+            ],
+            [
+                {
+                    "A": "Pasture Land",
+                    "R": "typically features",
+                    "B": "a lush, uneven surface"
+                },
+                {
+                    "A": "a lush, uneven surface",
+                    "R": "with",
+                    "B": "a slightly rough texture"
+                },
+                {
+                    "A": "a slightly rough texture",
+                    "R": "exhibiting",
+                    "B": "a mix of uniform green and darker spots"
+                },
+                {
+                    "A": "a mix of uniform green and darker spots",
+                    "R": "with",
+                    "B": "scattered tufts of grass and occasional wildflowers"
                 }
             ]
         ]
     },
     "Permanent Crop Land": {
         "coarse_description": [
-            "The unique visual cue of Permanent Crop Land in a centered satellite photo is the presence of regular geometric patterns.",
-            "Permanent Crop Land in a centered satellite photo appears as uniform patches of vegetation, distinct from other land types.",
-            "Permanent Crop Land in a centered satellite photo appears as distinct patches of consistently green vegetation covering the surface.",
-            "Permanent crop land is visually distinguished from other types of land by the presence of uniformly arranged, long-term cultivated crops.",
-            "The texture or surface characteristics of Permanent Crop Land in a satellite photo are typically uniform, organized, and densely vegetated."
+            "Permanent Crop Land is characterized by a uniform, geometric pattern of rows or plots, often with no natural vegetation.",
+            "Permanent Crop Land appears as uniform, geometric patterns of planted rows, often with distinct boundaries and minimal vegetation variation.",
+            "Permanent Crop Land appears as uniform, rectangular, and intensively cultivated areas with consistent crop patterns and minimal vegetation.",
+            "Permanent Crop Land appears as uniform, intensely green or yellowish areas with consistent shapes and boundaries in satellite imagery.",
+            "Permanent Crop Land typically exhibits uniform, smooth, and even surfaces with minimal topographic features and subtle color variations."
         ],
         "fine_description": [
-            "Permanent Crop Land typically consists of plants that remain in the ground for multiple years, such as orchards or vineyards.",
-            "Permanent Crop Land typically consists of long-standing vegetation, such as orchards or vineyards, that remains productive for multiple years.",
-            "Permanent Crop Land is characterized by the presence of long-lasting plants that bear fruits or nuts consistently throughout the year.",
-            "Permanent Crop Land is visually distinguished by the presence of long-lived plants, such as trees or vines.",
-            "Permanent Crop Land typically has a consistent and uniform surface texture due to the presence of long-standing vegetation."
+            "Permanent Crop Land features rows of uniform, regularly spaced, and densely planted crops, often with a consistent height and texture.",
+            "Permanent Crop Land features rows of uniform, cultivated plants with consistent spacing and growth patterns.",
+            "Permanent Crop Land features uniform rows of cultivated plants with precise spacing, regular pruning, and deliberate soil management.",
+            "Permanent Crop Land is characterized by uniform rows of mature, dense, and well-maintained crops with minimal soil exposure.",
+            "Permanent Crop Land typically features smooth, uniform, and often glossy surfaces, such as rows of neatly trimmed vines or leaves."
         ],
         "overall_description": [
-            "Permanent Crop Land can be identified by regular geometric patterns in satellite photos and consists of long-lasting plants like orchards or vineyards.",
-            "Permanent Crop Land is characterized by uniform patches of vegetation visible in satellite photos and consists of long-standing, productive vegetation like orchards or vineyards.",
-            "Permanent Crop Land is identifiable in satellite photos by its consistently green vegetation patches and is characterized by long-lasting plants that bear fruits or nuts year-round.",
-            "Permanent Crop Land is visually identifiable by the uniform arrangement of long-term cultivated crops, including long-lived plants like trees or vines.",
-            "Permanent Crop Land is characterized by a uniform and dense vegetation cover, resulting in a consistent and organized surface texture visible in satellite photos."
+            "Permanent Crop Land is characterized by a uniform, geometric pattern of rows or plots, featuring regularly spaced and densely planted crops with consistent height and texture, often with no natural vegetation.",
+            "Permanent Crop Land is characterized by uniform, geometric patterns of planted rows with distinct boundaries and consistent spacing and growth patterns of cultivated plants.",
+            "Permanent Crop Land is characterized by uniform, rectangular areas with precise crop patterns, consistent spacing, regular pruning, and deliberate soil management, featuring minimal vegetation and intensive cultivation.",
+            "Permanent Crop Land appears as uniform, intensely green or yellowish areas with consistent shapes and boundaries, featuring uniform rows of mature, dense, and well-maintained crops with minimal soil exposure.",
+            "Permanent Crop Land typically exhibits smooth, uniform, and even surfaces with minimal topographic features, often featuring glossy surfaces with neatly trimmed vines or leaves."
         ],
         "structure": [
             [
                 {
                     "A": "Permanent Crop Land",
-                    "R": "can be identified by",
-                    "B": "regular geometric patterns in satellite photos"
+                    "R": "is",
+                    "B": "characterized"
                 },
                 {
-                    "A": "Permanent Crop Land",
-                    "R": "consists of",
-                    "B": "long-lasting plants like orchards or vineyards"
+                    "A": "characterized",
+                    "R": "by",
+                    "B": "a uniform, geometric pattern"
+                },
+                {
+                    "A": "a uniform, geometric pattern",
+                    "R": "of",
+                    "B": "rows or plots"
+                },
+                {
+                    "A": "rows or plots",
+                    "R": "featuring",
+                    "B": "regularly spaced and densely planted crops"
+                },
+                {
+                    "A": "regularly spaced and densely planted crops",
+                    "R": "with",
+                    "B": "consistent height and texture"
+                },
+                {
+                    "A": "consistent height and texture",
+                    "R": "often",
+                    "B": "with no natural vegetation"
                 }
             ],
-            [],
             [
                 {
                     "A": "Permanent Crop Land",
-                    "R": "is identifiable in",
-                    "B": "satellite photos"
+                    "R": "is",
+                    "B": "characterized"
                 },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "uniform"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "geometric patterns"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "planted rows"
+                },
+                {
+                    "A": "planted rows",
+                    "R": "have",
+                    "B": "distinct boundaries"
+                },
+                {
+                    "A": "planted rows",
+                    "R": "have",
+                    "B": "consistent spacing"
+                },
+                {
+                    "A": "planted rows",
+                    "R": "have",
+                    "B": "growth patterns"
+                },
+                {
+                    "A": "planted rows",
+                    "R": "of",
+                    "B": "cultivated plants"
+                }
+            ],
+            [
                 {
                     "A": "Permanent Crop Land",
                     "R": "is characterized by",
-                    "B": "long-lasting plants"
+                    "B": "uniform, rectangular areas"
                 },
                 {
-                    "A": "long-lasting plants",
-                    "R": "bear",
-                    "B": "fruits or nuts year-round"
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "precise crop patterns"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "consistent spacing"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "regular pruning"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "deliberate soil management"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "features",
+                    "B": "minimal vegetation"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "intensive cultivation"
                 }
             ],
             [
                 {
                     "A": "Permanent Crop Land",
-                    "R": "is visually identifiable by",
-                    "B": "the uniform arrangement of long-term cultivated crops"
+                    "R": "appears",
+                    "B": "uniform, intensely green or yellowish areas"
                 },
                 {
                     "A": "Permanent Crop Land",
-                    "R": "is visually identifiable by",
-                    "B": "long-lived plants like trees or vines"
+                    "R": "features",
+                    "B": "uniform rows of mature, dense, and well-maintained crops"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "consistent shapes and boundaries"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "minimal soil exposure"
                 }
             ],
             [
                 {
                     "A": "Permanent Crop Land",
-                    "R": "is characterized by",
-                    "B": "uniform and dense vegetation cover"
+                    "R": "exhibits",
+                    "B": "smooth, uniform, and even surfaces"
                 },
                 {
-                    "A": "uniform and dense vegetation cover",
-                    "R": "results in",
-                    "B": "consistent and organized surface texture visible in satellite photos"
+                    "A": "Permanent Crop Land",
+                    "R": "has",
+                    "B": "minimal topographic features"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "features",
+                    "B": "glossy surfaces"
+                },
+                {
+                    "A": "Permanent Crop Land",
+                    "R": "features",
+                    "B": "neatly trimmed vines or leaves"
                 }
             ]
         ]
     },
     "Residential Buildings": {
         "coarse_description": [
-            "Residential buildings can be identified in a centered satellite photo by the presence of clustered rooftops and structures.",
-            "Residential buildings in a centered satellite photo appear as clustered structures, while other types of land appear more diverse and spread out.",
-            "Residential buildings in a centered satellite photo appear as clusters of rectangular structures with varying heights and rooftop features.",
-            "Residential buildings in a centered satellite photo can be distinguished by their clustered arrangement and distinctive rooftops.",
-            "Residential buildings in a centered satellite photo typically exhibit a mix of smooth and rough textures."
+            "Residential buildings are characterized by a uniform, grid-like pattern of rectangular shapes with straight edges and right angles.",
+            "Residential buildings appear as clusters of rectangular shapes with varying sizes and colors, often surrounded by green spaces and roads.",
+            "Residential buildings typically appear as rectangular or irregularly-shaped structures with flat roofs, straight walls, and varying heights.",
+            "Residential buildings appear as clusters of rectangular shapes with varying sizes, densities, and colors amidst green spaces and roads.",
+            "Residential buildings typically exhibit smooth, flat roofs, and walls with varied textures such as brick, stucco, or siding."
         ],
         "fine_description": [
-            "Residential buildings typically have more windows and a higher density of homes compared to industrial buildings.",
-            "Residential buildings typically have a homely and inviting appearance, with features such as windows, balconies, and gardens.",
-            "Residential buildings typically have a homely and welcoming appearance with features like windows, balconies, and a pitched roof.",
-            "Residential buildings typically have smaller structures with more windows, designed for living purposes and often have gardens or yards.",
-            "Residential buildings typically have smooth and polished surfaces with a variety of materials such as brick, wood, and stucco."
+            "Residential Buildings typically feature a variety of architectural styles, including pitched roofs, dormer windows, and ornate facades.",
+            "Residential Buildings typically feature walls, windows, doors, and roofs, with varied architectural styles, colors, and textures.",
+            "Residential Buildings typically feature a mix of materials, such as brick, wood, and glass, with varying rooflines and architectural styles.",
+            "Residential Buildings are typically characterized by a mix of rectangular shapes, varying heights, and a combination of windows and doors.",
+            "Residential Buildings typically feature smooth, weathered, and sometimes rough-textured surfaces, such as stucco, brick, or wood, with various architectural details."
         ],
         "overall_description": [
-            "Residential buildings are characterized by clustered rooftops and structures in centered satellite photos, and they have a higher density of homes and more windows compared to industrial buildings.",
-            "Residential buildings are clustered structures in satellite photos, while having a homely and inviting appearance with windows, balconies, and gardens.",
-            "Residential buildings are clusters of rectangular structures with varying heights, featuring windows, balconies, pitched roofs, and a homely and welcoming appearance.",
-            "Residential buildings are clustered with distinctive rooftops, featuring smaller structures with more windows, designed for living purposes and often accompanied by gardens or yards.",
-            "Residential buildings are characterized by a combination of smooth and rough textures, with smooth and polished surfaces made of materials like brick, wood, and stucco."
+            "Residential buildings typically feature a uniform grid-like pattern with rectangular shapes and straight edges, and often exhibit a variety of architectural styles, including pitched roofs, dormer windows, and ornate facades.",
+            "Residential buildings are clusters of rectangular structures with varied sizes, colors, and architectural styles, typically featuring walls, windows, doors, and roofs, often surrounded by green spaces and roads.",
+            "Residential buildings are typically rectangular or irregularly-shaped structures with flat roofs, straight walls, and varying heights, featuring a mix of materials, rooflines, and architectural styles.",
+            "Residential buildings are clusters of rectangular shapes with varying sizes, heights, and colors, often situated amidst green spaces and roads, featuring a mix of windows and doors.",
+            "Residential buildings typically exhibit smooth, flat roofs and walls with varied textures, including smooth, weathered, or rough-textured surfaces made of materials like stucco, brick, wood, or siding."
         ],
         "structure": [
             [
                 {
                     "A": "Residential buildings",
-                    "R": "characterized by",
-                    "B": "clustered rooftops and structures"
+                    "R": "feature",
+                    "B": "uniform grid-like pattern"
                 },
                 {
                     "A": "Residential buildings",
                     "R": "have",
-                    "B": "higher density of homes and more windows"
+                    "B": "rectangular shapes"
                 },
                 {
                     "A": "Residential buildings",
-                    "R": "compared to",
-                    "B": "industrial buildings"
+                    "R": "have",
+                    "B": "straight edges"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "exhibit",
+                    "B": "variety of architectural styles"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "include",
+                    "B": "pitched roofs"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "include",
+                    "B": "dormer windows"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "include",
+                    "B": "ornate facades"
+                }
+            ],
+            [
+                {
+                    "A": "satellite photo",
+                    "R": "contains",
+                    "B": "annual crop land"
+                },
+                {
+                    "A": "annual crop land",
+                    "R": "appears",
+                    "B": "mosaic"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "are",
+                    "B": "clusters"
+                },
+                {
+                    "A": "clusters",
+                    "R": "of",
+                    "B": "rectangular structures"
+                },
+                {
+                    "A": "rectangular structures",
+                    "R": "with",
+                    "B": "varied sizes"
+                },
+                {
+                    "A": "rectangular structures",
+                    "R": "with",
+                    "B": "colors"
+                },
+                {
+                    "A": "rectangular structures",
+                    "R": "with",
+                    "B": "architectural styles"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "typically featuring",
+                    "B": "walls"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "typically featuring",
+                    "B": "windows"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "typically featuring",
+                    "B": "doors"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "typically featuring",
+                    "B": "roofs"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "often surrounded by",
+                    "B": "green spaces"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "often surrounded by",
+                    "B": "roads"
                 }
             ],
             [
                 {
                     "A": "Residential buildings",
                     "R": "are",
-                    "B": "structures"
+                    "B": "typically rectangular or irregularly-shaped structures"
                 },
                 {
                     "A": "Residential buildings",
                     "R": "have",
-                    "B": "appearance"
+                    "B": "flat roofs"
                 },
                 {
                     "A": "Residential buildings",
                     "R": "have",
-                    "B": "windows"
+                    "B": "straight walls"
                 },
                 {
                     "A": "Residential buildings",
-                    "R": "have",
-                    "B": "balconies"
-                },
-                {
-                    "A": "Residential buildings",
-                    "R": "have",
-                    "B": "gardens"
-                }
-            ],
-            [
-                {
-                    "A": "Residential buildings",
-                    "R": "are clusters of",
-                    "B": "rectangular structures"
-                },
-                {
-                    "A": "rectangular structures",
-                    "R": "feature",
-                    "B": "windows"
-                },
-                {
-                    "A": "rectangular structures",
-                    "R": "feature",
-                    "B": "balconies"
-                },
-                {
-                    "A": "rectangular structures",
-                    "R": "feature",
-                    "B": "pitched roofs"
-                },
-                {
-                    "A": "rectangular structures",
                     "R": "have",
                     "B": "varying heights"
                 },
                 {
-                    "A": "rectangular structures",
-                    "R": "have",
-                    "B": "homely and welcoming appearance"
+                    "A": "Residential buildings",
+                    "R": "feature",
+                    "B": "a mix of materials"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "feature",
+                    "B": "rooflines"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "feature",
+                    "B": "architectural styles"
                 }
             ],
             [
                 {
                     "A": "Residential buildings",
-                    "R": "are clustered with",
-                    "B": "distinctive rooftops"
+                    "R": "are",
+                    "B": "clusters"
                 },
                 {
-                    "A": "distinctive rooftops",
-                    "R": "featuring",
-                    "B": "smaller structures with more windows"
+                    "A": "Residential buildings",
+                    "R": "are",
+                    "B": "rectangular shapes"
                 },
                 {
-                    "A": "smaller structures with more windows",
-                    "R": "designed for",
-                    "B": "living purposes"
+                    "A": "Residential buildings",
+                    "R": "have",
+                    "B": "varying sizes"
                 },
                 {
-                    "A": "smaller structures with more windows",
-                    "R": "often accompanied by",
-                    "B": "gardens or yards"
+                    "A": "Residential buildings",
+                    "R": "have",
+                    "B": "heights"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "have",
+                    "B": "colors"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "are",
+                    "B": "situated"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "are",
+                    "B": "amidst"
+                },
+                {
+                    "A": "green spaces and roads",
+                    "R": "are",
+                    "B": "situated"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "feature",
+                    "B": "a mix"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "feature",
+                    "B": "windows"
+                },
+                {
+                    "A": "Residential buildings",
+                    "R": "feature",
+                    "B": "doors"
                 }
             ],
             [
                 {
-                    "A": "buildings",
-                    "R": "characterized by",
-                    "B": "combination of textures"
+                    "A": "Residential buildings",
+                    "R": "exhibit",
+                    "B": "smooth, flat roofs"
                 },
                 {
-                    "A": "textures",
+                    "A": "Residential buildings",
+                    "R": "exhibit",
+                    "B": "walls with varied textures"
+                },
+                {
+                    "A": "smooth, flat roofs",
+                    "R": "have",
+                    "B": "varied textures"
+                },
+                {
+                    "A": "walls with varied textures",
+                    "R": "have",
+                    "B": "smooth, weathered, or rough-textured surfaces"
+                },
+                {
+                    "A": "smooth, weathered, or rough-textured surfaces",
                     "R": "made of",
-                    "B": "materials"
-                },
-                {
-                    "A": "textures",
-                    "R": "combination of",
-                    "B": "smooth and rough"
-                },
-                {
-                    "A": "surfaces",
-                    "R": "made of",
-                    "B": "materials"
+                    "B": "materials like stucco, brick, wood, or siding"
                 }
             ]
         ]
     },
     "River": {
         "coarse_description": [
-            "A river in a centered satellite photo can be identified by its winding and curving shape.",
-            "Rivers appear as long, winding, and narrow bodies of water surrounded by land in a centered satellite photo.",
-            "A river in a centered satellite photo appears as a long, winding water body with a distinct blue color.",
-            "River can be distinguished from other types of land in a centered satellite photo by its winding, blue water body.",
-            "Smooth and flowing, with a reflective surface, the river appears distinct from the surrounding land in the satellite photo."
+            "River's winding, serpentine shape and meandering course distinguish it from other landforms in a centered satellite photo.",
+            "Rivers appear as winding, sinuous lines with gentle curves, often with a darker tone due to vegetation and sediment.",
+            "River appears as a serpentine, winding feature with a clear or cloudy boundary and varying width and depth.",
+            "River appears as a sinuous, winding line of blue or green, often surrounded by varying shades of land and vegetation.",
+            "River surfaces typically exhibit a winding, serpentine pattern with smooth, reflective water and adjacent vegetated or sandy banks."
         ],
         "fine_description": [
-            "Rivers typically have a flowing current, distinguishing them from seas or lakes that lack consistent movement.",
-            "A river is a flowing body of water that moves in a narrow channel, often with visible currents.",
-            "A river is a flowing body of water that typically has a narrower and more winding shape compared to a sea or lake.",
-            "A river is a flowing body of water that is typically narrower and has a faster current than a sea or lake.",
-            "The surface of a river is typically fast-flowing, with rough and uneven textures due to the presence of rocks and pebbles."
+            "River's banks are often defined by steep slopes and dense vegetation, distinguishing it from Sea's open shores.",
+            "A river typically features a winding course, varying water depth, and a gradual slope with lush vegetation along its banks.",
+            "A river's appearance is characterized by its winding course, gradual slope, and varied width, often with vegetation-lined banks.",
+            "A river is characterized by its winding course, often with steep banks and a narrower, faster-moving water flow.",
+            "Rivers typically feature a rough, rocky, or pebbly surface, with varying degrees of smoothness and irregularities."
         ],
         "overall_description": [
-            "A river is a winding and curving body of water with a flowing current, distinguishing it from seas or lakes that lack consistent movement.",
-            "A river is a long, winding body of water flowing in a narrow channel, often with visible currents, surrounded by land as seen in a centered satellite photo.",
-            "A river is a long, winding water body with a distinct blue color, flowing and typically narrower and more winding compared to a sea or lake.",
-            "A river is a narrow, winding, and blue water body with a swift current, distinguishable from other land formations in satellite photos.",
-            "A river is a smooth and flowing body of water with a reflective surface, distinct from the surrounding land, and typically has a fast-flowing surface with rough and uneven textures due to rocks and pebbles."
+            "River is a winding and serpentine watercourse with steep, vegetated banks, distinguishable from other landforms and seas by its unique shape and terrain features.",
+            "A river is a winding, sinuous watercourse with a gentle curve, varying depth, and gradual slope, often featuring a darker tone and lush vegetation along its banks.",
+            "A river is a serpentine, winding feature with a clear or cloudy boundary, varying width and depth, gradual slope, and vegetation-lined banks, often with a varied appearance.",
+            "A river is a sinuous, winding line of blue or green water, often surrounded by varying shades of land and vegetation, with steep banks and a narrower, faster-moving flow.",
+            "Rivers typically feature a winding pattern with surfaces ranging from smooth and reflective to rough, rocky, or pebbly, often with varying degrees of smoothness and irregularities."
         ],
         "structure": [
             [
                 {
-                    "A": "river",
+                    "A": "River",
                     "R": "is",
-                    "B": "body of water"
+                    "B": "a winding and serpentine watercourse"
                 },
                 {
-                    "A": "river",
-                    "R": "has",
-                    "B": "flowing current"
+                    "A": "River",
+                    "R": "with",
+                    "B": "steep, vegetated banks"
                 },
                 {
-                    "A": "river",
-                    "R": "distinguishes",
-                    "B": "seas or lakes"
+                    "A": "River",
+                    "R": "distinguishable from",
+                    "B": "other landforms and seas"
                 },
                 {
-                    "A": "seas or lakes",
-                    "R": "lack",
-                    "B": "consistent movement"
+                    "A": "River",
+                    "R": "by",
+                    "B": "its unique shape and terrain features"
                 }
             ],
             [
                 {
                     "A": "river",
                     "R": "is",
-                    "B": "body of water"
+                    "B": "a winding, sinuous watercourse"
                 },
                 {
-                    "A": "body of water",
-                    "R": "flows in",
-                    "B": "channel"
+                    "A": "river",
+                    "R": "has",
+                    "B": "a gentle curve"
                 },
                 {
-                    "A": "channel",
-                    "R": "surrounded by",
-                    "B": "land"
+                    "A": "river",
+                    "R": "has",
+                    "B": "varying depth"
                 },
                 {
-                    "A": "land",
-                    "R": "seen in",
-                    "B": "photo"
+                    "A": "river",
+                    "R": "has",
+                    "B": "a gradual slope"
+                },
+                {
+                    "A": "river",
+                    "R": "often features",
+                    "B": "a darker tone"
+                },
+                {
+                    "A": "river",
+                    "R": "often features",
+                    "B": "lush vegetation along its banks"
                 }
             ],
             [
                 {
                     "A": "river",
                     "R": "is",
-                    "B": "water body"
-                },
-                {
-                    "A": "river",
-                    "R": "is",
-                    "B": "long"
-                },
-                {
-                    "A": "river",
-                    "R": "is",
-                    "B": "winding"
+                    "B": "serpentine, winding feature"
                 },
                 {
                     "A": "river",
                     "R": "has",
-                    "B": "blue color"
+                    "B": "clear or cloudy boundary"
                 },
                 {
                     "A": "river",
-                    "R": "flows",
-                    "B": "compared to sea or lake"
+                    "R": "has",
+                    "B": "varying width and depth"
                 },
                 {
                     "A": "river",
-                    "R": "is",
-                    "B": "narrower"
+                    "R": "has",
+                    "B": "gradual slope"
                 },
                 {
-                    "A": "sea or lake",
-                    "R": "compared to",
-                    "B": "river"
+                    "A": "river",
+                    "R": "has",
+                    "B": "vegetation-lined banks"
+                },
+                {
+                    "A": "river",
+                    "R": "often has",
+                    "B": "varied appearance"
                 }
             ],
             [
                 {
                     "A": "river",
                     "R": "is",
-                    "B": "water body"
+                    "B": "sinuous, winding line of blue or green water"
                 },
                 {
                     "A": "river",
                     "R": "is",
-                    "B": "distinguishable from land formations"
+                    "B": "often surrounded by varying shades of land and vegetation"
                 },
                 {
                     "A": "river",
-                    "R": "is",
-                    "B": "in satellite photos"
+                    "R": "has",
+                    "B": "steep banks"
+                },
+                {
+                    "A": "river",
+                    "R": "has",
+                    "B": "a narrower, faster-moving flow"
                 }
             ],
             [
                 {
-                    "A": "river",
-                    "R": "is",
-                    "B": "body of water"
+                    "A": "Rivers",
+                    "R": "typically feature",
+                    "B": "a winding pattern"
                 },
                 {
-                    "A": "river",
-                    "R": "has",
-                    "B": "surface"
+                    "A": "Rivers",
+                    "R": "have",
+                    "B": "surfaces"
                 },
                 {
-                    "A": "surface",
-                    "R": "is",
-                    "B": "smooth"
+                    "A": "surfaces",
+                    "R": "ranging",
+                    "B": "from smooth and reflective to rough, rocky, or pebbly"
                 },
                 {
-                    "A": "surface",
-                    "R": "is",
-                    "B": "flowing"
-                },
-                {
-                    "A": "surface",
-                    "R": "has",
-                    "B": "reflective surface"
-                },
-                {
-                    "A": "river",
-                    "R": "is",
-                    "B": "distinct from land"
-                },
-                {
-                    "A": "surface",
-                    "R": "has",
-                    "B": "rough and uneven textures"
-                },
-                {
-                    "A": "textures",
-                    "R": "due to",
-                    "B": "rocks and pebbles"
+                    "A": "surfaces",
+                    "R": "often",
+                    "B": "with varying degrees of smoothness and irregularities"
                 }
             ]
         ]
     },
     "Sea or Lake": {
         "coarse_description": [
-            "Presence of water body in the form of a large, contiguous, and reflective surface is a unique visual cue for Sea or Lake.",
-            "Sea or lake appears as a large expanse of blue or greenish-blue, while other types of land appear more varied in color and texture.",
-            "Water bodies appear as large blue or dark areas, contrasting with the surrounding land, in a satellite photo.",
-            "Sea or Lake can be distinguished from other types of land in a centered satellite photo by their distinct blue color.",
-            "The surface of a sea or lake in a centered satellite photo typically appears smooth and reflective."
+            "The visual cue unique to Sea or Lake is the presence of a distinct shoreline or coastline with water's edge.",
+            "Sea or lake appears as a distinct, reflective blue or gray area with a defined shoreline in a centered satellite photo.",
+            "A sea or lake is characterized by a smooth, curved or irregular boundary, with a distinct shoreline and reflective surface.",
+            "Sea or Lake appears as a large, smooth, and continuous body of water with a distinct shoreline or coastline.",
+            "Sea or lake surfaces typically exhibit a smooth, reflective, and glassy appearance with subtle ripples or waves."
         ],
         "fine_description": [
-            "The continuous, vast expanse of water with no visible current is a unique visual cue for sea or lake.",
-            "Sea or lake is a large body of water surrounded by land, while a river is a flowing watercourse.",
-            "Seas and lakes are large bodies of water surrounded by land, while rivers are flowing bodies of water with a current.",
-            "A sea or lake is a large body of water surrounded by land, while a river is a flowing body of water with a current.",
-            "The surface of a sea or lake is typically calm and smooth, with minimal current or flow."
+            "Sea or Lake features a distinct horizon line, often with a visible sky-blue color, separating the water from the atmosphere.",
+            "A sea or lake is a vast, calm body of water with a relatively flat surface and no visible current.",
+            "A Sea or Lake is characterized by a calm, vast, and relatively still body of water with a distinct shoreline.",
+            "A Sea or Lake appears as a vast, calm body of water with a visible horizon, often surrounded by land.",
+            "Sea and Lake surfaces typically feature gentle ripples, calm waves, and a smooth, reflective sheen."
         ],
         "overall_description": [
-            "A sea or lake can be identified by its large, reflective surface and vast expanse of water without visible current.",
-            "Sea or lake is a vast, blue or greenish-blue expanse of water, distinguished from other land by its uniform color and texture, and surrounded by land unlike a river.",
-            "Seas and lakes are large bodies of water surrounded by land, appearing as blue or dark areas in satellite photos, while rivers are flowing bodies of water with a current.",
-            "A sea or lake is a large body of water surrounded by land, distinguishable by their distinct blue color in satellite photos, while rivers are flowing bodies of water.",
-            "Sea or lake surfaces typically appear smooth, reflective, calm, and with minimal current or flow, as observed in satellite photos and general observations."
+            "A Sea or Lake is characterized by a distinct shoreline or coastline with a water's edge, and a horizon line separating the water from the atmosphere, often with a visible sky-blue color.",
+            "A sea or lake is a vast, calm body of water with a flat surface, defined shoreline, and a reflective blue or gray appearance, often appearing as a distinct area in satellite photos.",
+            "A sea or lake is a calm, vast, and relatively still body of water with a distinct shoreline, characterized by a smooth, curved or irregular boundary and reflective surface.",
+            "A sea or lake is a vast, calm, and continuous body of water with a visible horizon, surrounded by land, featuring a distinct shoreline or coastline.",
+            "Sea or lake surfaces typically display a smooth, reflective, and glassy appearance with gentle ripples, calm waves, and a subtle sheen, often exhibiting a serene and tranquil atmosphere."
         ],
         "structure": [
             [
                 {
-                    "A": "sea or lake",
-                    "R": "can be identified by",
-                    "B": "large, reflective surface"
+                    "A": "A Sea or Lake",
+                    "R": "is characterized by",
+                    "B": "a distinct shoreline or coastline"
                 },
                 {
-                    "A": "sea or lake",
-                    "R": "can be identified by",
-                    "B": "vast expanse of water without visible current"
+                    "A": "A Sea or Lake",
+                    "R": "has",
+                    "B": "a water's edge"
+                },
+                {
+                    "A": "A Sea or Lake",
+                    "R": "has",
+                    "B": "a horizon line"
+                },
+                {
+                    "A": "A Sea or Lake",
+                    "R": "separates",
+                    "B": "the water from the atmosphere"
+                },
+                {
+                    "A": "A Sea or Lake",
+                    "R": "often has",
+                    "B": "a visible sky-blue color"
                 }
             ],
             [
                 {
-                    "A": "Sea or lake",
+                    "A": "sea or lake",
                     "R": "is",
-                    "B": "expanse of water"
+                    "B": "vast, calm body of water"
                 },
                 {
-                    "A": "expanse of water",
-                    "R": "distinguished from",
-                    "B": "other land"
+                    "A": "vast, calm body of water",
+                    "R": "has",
+                    "B": "flat surface"
                 },
                 {
-                    "A": "expanse of water",
-                    "R": "surrounded by",
-                    "B": "land"
+                    "A": "vast, calm body of water",
+                    "R": "has",
+                    "B": "defined shoreline"
                 },
                 {
-                    "A": "expanse of water",
-                    "R": "unlike",
-                    "B": "river"
+                    "A": "vast, calm body of water",
+                    "R": "has",
+                    "B": "reflective blue or gray appearance"
+                },
+                {
+                    "A": "vast, calm body of water",
+                    "R": "often appears as",
+                    "B": "distinct area in satellite photos"
                 }
             ],
             [
                 {
-                    "A": "Seas and lakes",
-                    "R": "are surrounded by",
-                    "B": "land"
+                    "A": "a sea or lake",
+                    "R": "is",
+                    "B": "a calm, vast, and relatively still body of water"
                 },
                 {
-                    "A": "Seas and lakes",
-                    "R": "appear as",
-                    "B": "blue or dark areas"
+                    "A": "a calm, vast, and relatively still body of water",
+                    "R": "has",
+                    "B": "a distinct shoreline"
                 },
                 {
-                    "A": "rivers",
-                    "R": "are",
-                    "B": "flowing bodies of water"
+                    "A": "a distinct shoreline",
+                    "R": "characterized by",
+                    "B": "a smooth, curved or irregular boundary"
                 },
                 {
-                    "A": "rivers",
-                    "R": "have",
-                    "B": "a current"
+                    "A": "a smooth, curved or irregular boundary",
+                    "R": "and",
+                    "B": "a reflective surface"
                 }
             ],
             [
                 {
                     "A": "sea or lake",
-                    "R": "is surrounded by",
-                    "B": "land"
+                    "R": "is",
+                    "B": "vast, calm, and continuous body of water"
                 },
                 {
-                    "A": "sea or lake",
-                    "R": "is distinguishable by",
-                    "B": "distinct blue color in satellite photos"
+                    "A": "vast, calm, and continuous body of water",
+                    "R": "has",
+                    "B": "visible horizon"
                 },
                 {
-                    "A": "rivers",
-                    "R": "are",
-                    "B": "flowing bodies of water"
+                    "A": "vast, calm, and continuous body of water",
+                    "R": "is",
+                    "B": "surrounded by land"
+                },
+                {
+                    "A": "vast, calm, and continuous body of water",
+                    "R": "features",
+                    "B": "distinct shoreline or coastline"
                 }
             ],
             [
                 {
-                    "A": "surfaces",
-                    "R": "appear",
-                    "B": "smooth"
+                    "A": "Sea or lake surfaces",
+                    "R": "typically display",
+                    "B": "a smooth, reflective, and glassy appearance"
                 },
                 {
-                    "A": "surfaces",
-                    "R": "appear",
-                    "B": "reflective"
+                    "A": "a smooth, reflective, and glassy appearance",
+                    "R": "with",
+                    "B": "gentle ripples"
                 },
                 {
-                    "A": "surfaces",
-                    "R": "appear",
-                    "B": "calm"
+                    "A": "a smooth, reflective, and glassy appearance",
+                    "R": "with",
+                    "B": "calm waves"
                 },
                 {
-                    "A": "surfaces",
-                    "R": "appear",
-                    "B": "with minimal current or flow"
+                    "A": "a smooth, reflective, and glassy appearance",
+                    "R": "with",
+                    "B": "a subtle sheen"
                 },
                 {
-                    "A": "surfaces",
-                    "R": "are observed in",
-                    "B": "satellite photos"
-                },
-                {
-                    "A": "surfaces",
-                    "R": "are observed in",
-                    "B": "general observations"
+                    "A": "a smooth, reflective, and glassy appearance",
+                    "R": "often exhibiting",
+                    "B": "a serene and tranquil atmosphere"
                 }
             ]
         ]

@@ -1,32 +1,39 @@
 # Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models (AAAI2024)
 
+# &
 
+# HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling (Arxiv2408)
 
-> [**Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models**](https://arxiv.org/abs/2312.06323)<br>
+> [**Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models**](https://ojs.aaai.org/index.php/AAAI/article/view/28387/28756)<br>
 > [Yubin Wang](https://scholar.google.com/citations?user=mLeYNLoAAAAJ), [Xinyang Jiang](https://scholar.google.com/citations?user=JiTfWVMAAAAJ), [De Cheng](https://scholar.google.com/citations?user=180lASkAAAAJ), [Dongsheng Li](https://scholar.google.com/citations?user=VNg5rA8AAAAJ), [Cairong Zhao](https://scholar.google.com/citations?user=z-XzWZcAAAAJ)
+>
+> &
+>
+> [**HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling**](https://arxiv.org/pdf/2408.14812)<br>
+>
+> [Yubin Wang](https://scholar.google.com/citations?user=mLeYNLoAAAAJ), [Xinyang Jiang](https://scholar.google.com/citations?user=JiTfWVMAAAAJ), [De Cheng](https://scholar.google.com/citations?user=180lASkAAAAJ), Wenli Sun, [Dongsheng Li](https://scholar.google.com/citations?user=VNg5rA8AAAAJ), [Cairong Zhao](https://scholar.google.com/citations?user=z-XzWZcAAAAJ)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-hierarchical-prompt-with-structured/prompt-engineering-on-eurosat)](https://paperswithcode.com/sota/prompt-engineering-on-eurosat?p=learning-hierarchical-prompt-with-structured)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-hierarchical-prompt-with-structured/prompt-engineering-on-fgvc-aircraft)](https://paperswithcode.com/sota/prompt-engineering-on-fgvc-aircraft?p=learning-hierarchical-prompt-with-structured)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-hierarchical-prompt-with-structured/prompt-engineering-on-imagenet-v2)](https://paperswithcode.com/sota/prompt-engineering-on-imagenet-v2?p=learning-hierarchical-prompt-with-structured)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-hierarchical-prompt-with-structured/prompt-engineering-on-sun397)](https://paperswithcode.com/sota/prompt-engineering-on-sun397?p=learning-hierarchical-prompt-with-structured)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-hierarchical-prompt-with-structured/prompt-engineering-on-ucf101)](https://paperswithcode.com/sota/prompt-engineering-on-ucf101?p=learning-hierarchical-prompt-with-structured)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hpt-hierarchically-prompting-vision-language/prompt-engineering-on-imagenet-v2)](https://paperswithcode.com/sota/prompt-engineering-on-imagenet-v2?p=hpt-hierarchically-prompting-vision-language)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hpt-hierarchically-prompting-vision-language/prompt-engineering-on-caltech-101)](https://paperswithcode.com/sota/prompt-engineering-on-caltech-101?p=hpt-hierarchically-prompting-vision-language)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hpt-hierarchically-prompting-vision-language/prompt-engineering-on-dtd)](https://paperswithcode.com/sota/prompt-engineering-on-dtd?p=hpt-hierarchically-prompting-vision-language)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hpt-hierarchically-prompting-vision-language/prompt-engineering-on-eurosat)](https://paperswithcode.com/sota/prompt-engineering-on-eurosat?p=hpt-hierarchically-prompting-vision-language)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hpt-hierarchically-prompting-vision-language/prompt-engineering-on-fgvc-aircraft)](https://paperswithcode.com/sota/prompt-engineering-on-fgvc-aircraft?p=hpt-hierarchically-prompting-vision-language)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hpt-hierarchically-prompting-vision-language/prompt-engineering-on-imagenet-a)](https://paperswithcode.com/sota/prompt-engineering-on-imagenet-a?p=hpt-hierarchically-prompting-vision-language)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hpt-hierarchically-prompting-vision-language/prompt-engineering-on-oxford-iiit-pet-dataset)](https://paperswithcode.com/sota/prompt-engineering-on-oxford-iiit-pet-dataset?p=hpt-hierarchically-prompting-vision-language)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hpt-hierarchically-prompting-vision-language/prompt-engineering-on-ucf101)](https://paperswithcode.com/sota/prompt-engineering-on-ucf101?p=hpt-hierarchically-prompting-vision-language)
 
-
-Official implementation of the paper "[Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models](https://arxiv.org/abs/2312.06323)".
+Official implementation of the paper "[Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models](https://arxiv.org/abs/2312.06323)" and ''[HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling](https://arxiv.org/pdf/2408.14812)''.
 
 
 <hr />
 
 ## 📢 News
+
+- **(Feb 1, 2025)**
+  - An improved version of HPT, **HPT++**, has now been released. Please click the [**link**](docs/PLUS.md) to view the project documentation. 
+
 * **(Dec 12, 2023)**
-  - Training and evaluation codes for [HPT](https://github.com/Vill-Lab/2024-AAAI-HPT) are released 🔓
+  - Training and evaluation codes for HPT are released 🔓
 * **(Dec 09, 2023)**
   * Paper accepted at AAAI 2024 :tada: 
 
 ## ✨ Highlights
 
 ![main figure](docs/main_figure.png)
-> **<p align="justify"> Abstract:** *Prompt learning has become a prevalent strategy for adapting vision-language foundation models to downstream tasks. As large language models (LLMs) have emerged, recent studies have explored the use of category-related descriptions as input to enhance prompt effectiveness. Nevertheless, conventional descriptions fall short of structured information that effectively represents the interconnections among entities or attributes linked to a particular category. To address this limitation and prioritize harnessing structured knowledge, this paper advocates for leveraging LLMs to build a graph for each description to model the entities and attributes describing the category, as well as their correlations. Preexisting prompt tuning methods exhibit inadequacies in managing this structured knowledge. Consequently, we propose a novel approach called Hierarchical Prompt Tuning (HPT), which enables simultaneous modeling of both structured and conventional linguistic knowledge. Specifically, we introduce a relationship-guided attention module to capture pair-wise associations among entities and attributes for low-level prompt learning. In addition, by incorporating high-level and globallevel prompts modeling overall semantics, the proposed hierarchical structure forges cross-level interlinks and empowers the model to handle more complex and long-term relationships. Extensive experiments demonstrate that our HPT shows strong effectiveness and generalizes much better than existing SOTA methods.* </p>
+> **<p align="justify"> Abstract:** *Prompt learning has become a prevalent strategy for adapting vision-language foundation models to downstream tasks. As large language models (LLMs) have emerged, recent studies have explored the use of category-related descriptions as input to enhance prompt effectiveness. Nevertheless, conventional descriptions fall short of structured information that effectively represents the interconnections among entities or attributes linked to a particular category. To address this limitation and prioritize harnessing structured knowledge, this paper advocates for leveraging LLMs to build a graph for each description to model the entities and attributes describing the category, as well as their correlations. Preexisting prompt tuning methods exhibit inadequacies in managing this structured knowledge. Consequently, we propose a novel approach called Hierarchical Prompt Tuning (HPT), which enables simultaneous modeling of both structured and conventional linguistic knowledge. Specifically, we introduce a relationship-guided attention module to capture pair-wise associations among entities and attributes for low-level prompt learning. In addition, by incorporating high-level and global-level prompts modeling overall semantics, the proposed hierarchical structure forges cross-level interlinks and empowers the model to handle more complex and long-term relationships. Extensive experiments demonstrate that our HPT shows strong effectiveness and generalizes much better than existing SOTA methods.* </p>
 
 ## :rocket: Contributions
 
@@ -77,7 +84,7 @@ For installation and other package requirements, please follow the instructions 
 
 Download checkpoints [here](https://drive.google.com/drive/folders/1e7H-w4ujNCPo32eONimG0pe9A4lpIe9f?usp=sharing) and put them at `./results/B2N` to reproduce the benchmark results.
 
-## 🗂️ Data preparation
+## 🗂️ Data Preparation
 Please follow the instructions at [DATASETS.md](docs/DATASETS.md) to prepare all datasets.
 
 
@@ -95,6 +102,13 @@ If you use our work, please consider citing:
   volume={38},
   number={6},
   pages={5749--5757},
+  year={2024}
+}
+
+@article{wang2024hpt++,
+  title={HPT++: Hierarchically Prompting Vision-Language Models with Multi-Granularity Knowledge Generation and Improved Structure Modeling},
+  author={Wang, Yubin and Jiang, Xinyang and Cheng, De and Sun, Wenli and Li, Dongsheng and Zhao, Cairong},
+  journal={arXiv preprint arXiv:2408.14812},
   year={2024}
 }
 ```

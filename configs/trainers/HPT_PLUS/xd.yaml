@@ -28,6 +28,9 @@ TRAIN:
 TRAINER:
   HPT_PLUS:
     N_SET: 5
+    N_TPRO: 2
+    N_VPRO: 2
+    ALPHA: 0.2
 
 MODEL:
   BACKBONE:
